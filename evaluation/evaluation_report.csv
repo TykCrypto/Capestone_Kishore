@@ -1,0 +1,11 @@
+metric,value
+accuracy_pct,95.11
+precision_pct,5.33
+recall_pct,13.02
+f1_pct,7.56
+false_positive_rate_pct,3.61
+false_negative_rate_pct,86.98
+rule_detection_accuracy_pct,100.0
+ground_truth_match_rate_pct,100.0
+test_pass_rate_pct,100.0
+governance_checks_status,PASS

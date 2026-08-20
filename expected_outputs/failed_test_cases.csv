@@ -1,0 +1,613 @@
+test_case_id,test_module,test_scenario,test_type,priority,expected_result,automation_status,last_execution_date,execution_status,failure_reason,execution_time_seconds,defect_id
+TC0000003,Cards,Validate Cards integration scenario 3,INTEGRATION,MEDIUM,Expected valid Cards response,AUTOMATED,2026-01-22,FAIL,EnvironmentUnavailable,22.06,DEF0002891
+TC0000007,Notifications,Validate Notifications unit scenario 7,UNIT,HIGH,Expected valid Notifications response,AUTOMATED,2026-04-10,FAIL,AuthenticationFailure,41.21,DEF0002515
+TC0000013,Payments,Validate Payments ui scenario 13,UI,HIGH,Expected valid Payments response,AUTOMATED,2025-10-28,FAIL,DataMismatch,87.8,DEF0002417
+TC0000014,API Gateway,Validate API Gateway ui scenario 14,UI,MEDIUM,Expected valid API Gateway response,AUTOMATED,2026-06-23,FAIL,EnvironmentUnavailable,72.03,DEF0001214
+TC0000019,API Gateway,Validate API Gateway ui scenario 19,UI,HIGH,Expected valid API Gateway response,CANDIDATE,2025-01-23,FAIL,AssertionError,106.31,DEF0001299
+TC0000045,UPI,Validate UPI api scenario 45,API,LOW,Expected valid UPI response,AUTOMATED,2025-11-24,FAIL,ElementNotFound,93.29,DEF0000019
+TC0000048,Notifications,Validate Notifications api scenario 48,API,MEDIUM,Expected valid Notifications response,AUTOMATED,2025-06-29,FAIL,AuthenticationFailure,62.08,DEF0000710
+TC0000049,API Gateway,Validate API Gateway unit scenario 49,UNIT,HIGH,Expected valid API Gateway response,AUTOMATED,2025-04-20,FAIL,EnvironmentUnavailable,124.5,DEF0001364
+TC0000072,Customer Onboarding,Validate Customer Onboarding regression scenario 72,REGRESSION,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2025-07-05,FAIL,DataMismatch,10.88,DEF0002198
+TC0000076,KYC,Validate KYC unit scenario 76,UNIT,HIGH,Expected valid KYC response,MANUAL,2025-05-14,FAIL,ElementNotFound,148.62,DEF0001348
+TC0000091,Accounts,Validate Accounts ui scenario 91,UI,MEDIUM,Expected valid Accounts response,MANUAL,2025-12-06,FAIL,DataMismatch,146.83,DEF0000922
+TC0000124,KYC,Validate KYC integration scenario 124,INTEGRATION,LOW,Expected valid KYC response,AUTOMATED,2025-05-05,FAIL,AssertionError,150.1,DEF0000061
+TC0000131,Login,Validate Login unit scenario 131,UNIT,LOW,Expected valid Login response,AUTOMATED,2025-09-03,FAIL,ElementNotFound,46.43,DEF0001694
+TC0000132,Cards,Validate Cards unit scenario 132,UNIT,MEDIUM,Expected valid Cards response,AUTOMATED,2026-01-03,FAIL,DataMismatch,172.55,DEF0000368
+TC0000133,Fraud Monitoring,Validate Fraud Monitoring api scenario 133,API,HIGH,Expected valid Fraud Monitoring response,AUTOMATED,2025-12-26,FAIL,ElementNotFound,56.64,DEF0001169
+TC0000140,Accounts,Validate Accounts ui scenario 140,UI,MEDIUM,Expected valid Accounts response,AUTOMATED,2025-10-06,FAIL,ElementNotFound,165.13,DEF0002346
+TC0000145,Customer Onboarding,Validate Customer Onboarding regression scenario 145,REGRESSION,LOW,Expected valid Customer Onboarding response,MANUAL,2025-12-15,FAIL,UnexpectedStatusCode,54.66,DEF0001829
+TC0000154,Statements,Validate Statements regression scenario 154,REGRESSION,MEDIUM,Expected valid Statements response,AUTOMATED,2026-07-30,FAIL,AssertionError,51.56,DEF0000937
+TC0000178,Fraud Monitoring,Validate Fraud Monitoring unit scenario 178,UNIT,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2025-05-22,FAIL,Timeout,92.34,DEF0001785
+TC0000196,Payments,Validate Payments regression scenario 196,REGRESSION,HIGH,Expected valid Payments response,AUTOMATED,2026-01-17,FAIL,UnexpectedStatusCode,1.24,DEF0000362
+TC0000197,Login,Validate Login ui scenario 197,UI,MEDIUM,Expected valid Login response,MANUAL,2026-06-04,FAIL,AssertionError,52.81,DEF0000107
+TC0000204,Statements,Validate Statements performance scenario 204,PERFORMANCE,HIGH,Expected valid Statements response,AUTOMATED,2025-08-13,FAIL,Timeout,71.01,DEF0000528
+TC0000206,API Gateway,Validate API Gateway ui scenario 206,UI,MEDIUM,Expected valid API Gateway response,CANDIDATE,2026-03-30,FAIL,UnexpectedStatusCode,4.48,DEF0001400
+TC0000224,Loans,Validate Loans regression scenario 224,REGRESSION,LOW,Expected valid Loans response,AUTOMATED,2025-04-11,FAIL,UnexpectedStatusCode,142.14,DEF0001672
+TC0000233,Cards,Validate Cards unit scenario 233,UNIT,MEDIUM,Expected valid Cards response,AUTOMATED,2026-04-06,FAIL,ElementNotFound,131.67,DEF0002524
+TC0000266,Accounts,Validate Accounts api scenario 266,API,MEDIUM,Expected valid Accounts response,AUTOMATED,2026-07-16,FAIL,AssertionError,26.53,DEF0001816
+TC0000271,KYC,Validate KYC unit scenario 271,UNIT,MEDIUM,Expected valid KYC response,AUTOMATED,2025-04-28,FAIL,EnvironmentUnavailable,158.59,DEF0002623
+TC0000281,Login,Validate Login integration scenario 281,INTEGRATION,MEDIUM,Expected valid Login response,AUTOMATED,2026-06-21,FAIL,DataMismatch,20.05,DEF0001050
+TC0000282,Payments,Validate Payments api scenario 282,API,LOW,Expected valid Payments response,AUTOMATED,2025-12-28,FAIL,AssertionError,34.75,DEF0001878
+TC0000297,Customer Onboarding,Validate Customer Onboarding unit scenario 297,UNIT,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2026-07-21,FAIL,ElementNotFound,153.35,DEF0000056
+TC0000307,Accounts,Validate Accounts unit scenario 307,UNIT,MEDIUM,Expected valid Accounts response,AUTOMATED,2025-02-03,FAIL,Timeout,48.52,DEF0001704
+TC0000328,Statements,Validate Statements api scenario 328,API,HIGH,Expected valid Statements response,MANUAL,2025-04-26,FAIL,EnvironmentUnavailable,21.53,DEF0002110
+TC0000371,KYC,Validate KYC unit scenario 371,UNIT,MEDIUM,Expected valid KYC response,MANUAL,2025-12-22,FAIL,DataMismatch,155.16,DEF0000377
+TC0000376,Login,Validate Login api scenario 376,API,MEDIUM,Expected valid Login response,MANUAL,2025-05-20,FAIL,UnexpectedStatusCode,81.54,DEF0001401
+TC0000381,Customer Onboarding,Validate Customer Onboarding regression scenario 381,REGRESSION,LOW,Expected valid Customer Onboarding response,AUTOMATED,2025-10-22,FAIL,AssertionError,177.05,DEF0001580
+TC0000385,KYC,Validate KYC regression scenario 385,REGRESSION,LOW,Expected valid KYC response,MANUAL,2025-10-01,FAIL,AssertionError,10.51,DEF0002003
+TC0000393,KYC,Validate KYC unit scenario 393,UNIT,MEDIUM,Expected valid KYC response,AUTOMATED,2025-03-23,FAIL,AuthenticationFailure,40.17,DEF0000912
+TC0000395,Loans,Validate Loans performance scenario 395,PERFORMANCE,MEDIUM,Expected valid Loans response,AUTOMATED,2025-02-04,FAIL,DataMismatch,119.63,DEF0002605
+TC0000407,Payments,Validate Payments regression scenario 407,REGRESSION,LOW,Expected valid Payments response,AUTOMATED,2025-11-02,FAIL,AuthenticationFailure,39.37,DEF0001769
+TC0000414,API Gateway,Validate API Gateway integration scenario 414,INTEGRATION,HIGH,Expected valid API Gateway response,AUTOMATED,2026-06-09,FAIL,ElementNotFound,17.11,DEF0001580
+TC0000424,Login,Validate Login ui scenario 424,UI,LOW,Expected valid Login response,AUTOMATED,2026-06-03,FAIL,EnvironmentUnavailable,36.41,DEF0001990
+TC0000427,Cards,Validate Cards performance scenario 427,PERFORMANCE,MEDIUM,Expected valid Cards response,AUTOMATED,2025-11-23,FAIL,Timeout,21.0,DEF0001558
+TC0000429,Payments,Validate Payments ui scenario 429,UI,HIGH,Expected valid Payments response,CANDIDATE,2026-03-31,FAIL,ElementNotFound,125.66,DEF0002082
+TC0000433,Loans,Validate Loans regression scenario 433,REGRESSION,MEDIUM,Expected valid Loans response,MANUAL,2025-01-25,FAIL,DataMismatch,128.04,DEF0001541
+TC0000438,KYC,Validate KYC unit scenario 438,UNIT,HIGH,Expected valid KYC response,AUTOMATED,2025-03-17,FAIL,Timeout,83.32,DEF0001711
+TC0000439,Loans,Validate Loans ui scenario 439,UI,MEDIUM,Expected valid Loans response,AUTOMATED,2026-06-07,FAIL,ElementNotFound,23.19,DEF0001797
+TC0000463,UPI,Validate UPI api scenario 463,API,MEDIUM,Expected valid UPI response,AUTOMATED,2026-06-08,FAIL,UnexpectedStatusCode,64.65,DEF0001613
+TC0000474,Statements,Validate Statements regression scenario 474,REGRESSION,LOW,Expected valid Statements response,AUTOMATED,2025-06-24,FAIL,AssertionError,67.83,DEF0001669
+TC0000475,Fraud Monitoring,Validate Fraud Monitoring performance scenario 475,PERFORMANCE,HIGH,Expected valid Fraud Monitoring response,MANUAL,2025-01-21,FAIL,Timeout,128.62,DEF0001097
+TC0000477,Payments,Validate Payments regression scenario 477,REGRESSION,HIGH,Expected valid Payments response,AUTOMATED,2025-06-11,FAIL,DataMismatch,87.13,DEF0002224
+TC0000484,UPI,Validate UPI regression scenario 484,REGRESSION,LOW,Expected valid UPI response,AUTOMATED,2025-06-26,FAIL,Timeout,144.76,DEF0000046
+TC0000494,Cards,Validate Cards integration scenario 494,INTEGRATION,MEDIUM,Expected valid Cards response,AUTOMATED,2026-03-16,FAIL,AssertionError,82.74,DEF0000725
+TC0000499,Login,Validate Login regression scenario 499,REGRESSION,LOW,Expected valid Login response,CANDIDATE,2026-06-09,FAIL,EnvironmentUnavailable,114.09,DEF0001168
+TC0000509,Login,Validate Login unit scenario 509,UNIT,HIGH,Expected valid Login response,AUTOMATED,2026-07-08,FAIL,AuthenticationFailure,98.64,DEF0001094
+TC0000512,Payments,Validate Payments ui scenario 512,UI,HIGH,Expected valid Payments response,AUTOMATED,2026-03-02,FAIL,EnvironmentUnavailable,44.33,DEF0000741
+TC0000552,Customer Onboarding,Validate Customer Onboarding ui scenario 552,UI,MEDIUM,Expected valid Customer Onboarding response,MANUAL,2025-07-01,FAIL,AssertionError,87.47,DEF0001153
+TC0000559,UPI,Validate UPI regression scenario 559,REGRESSION,HIGH,Expected valid UPI response,MANUAL,2026-03-03,FAIL,AssertionError,36.54,DEF0001204
+TC0000579,Statements,Validate Statements regression scenario 579,REGRESSION,HIGH,Expected valid Statements response,AUTOMATED,2025-12-22,FAIL,Timeout,5.88,DEF0000341
+TC0000604,Loans,Validate Loans regression scenario 604,REGRESSION,MEDIUM,Expected valid Loans response,MANUAL,2025-04-14,FAIL,ElementNotFound,72.51,DEF0001966
+TC0000607,Accounts,Validate Accounts unit scenario 607,UNIT,LOW,Expected valid Accounts response,CANDIDATE,2025-09-01,FAIL,UnexpectedStatusCode,27.06,DEF0001676
+TC0000610,Customer Onboarding,Validate Customer Onboarding performance scenario 610,PERFORMANCE,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2025-12-05,FAIL,Timeout,5.21,DEF0002536
+TC0000627,Fraud Monitoring,Validate Fraud Monitoring unit scenario 627,UNIT,LOW,Expected valid Fraud Monitoring response,AUTOMATED,2026-03-08,FAIL,ElementNotFound,125.92,DEF0000910
+TC0000638,Fraud Monitoring,Validate Fraud Monitoring integration scenario 638,INTEGRATION,LOW,Expected valid Fraud Monitoring response,CANDIDATE,2025-08-06,FAIL,AuthenticationFailure,76.38,DEF0002025
+TC0000644,Fraud Monitoring,Validate Fraud Monitoring ui scenario 644,UI,HIGH,Expected valid Fraud Monitoring response,AUTOMATED,2025-03-24,FAIL,DataMismatch,152.81,DEF0000389
+TC0000653,Accounts,Validate Accounts ui scenario 653,UI,LOW,Expected valid Accounts response,CANDIDATE,2025-09-11,FAIL,DataMismatch,62.14,DEF0001955
+TC0000674,Customer Onboarding,Validate Customer Onboarding regression scenario 674,REGRESSION,MEDIUM,Expected valid Customer Onboarding response,MANUAL,2025-12-04,FAIL,Timeout,79.54,DEF0000791
+TC0000677,Loans,Validate Loans integration scenario 677,INTEGRATION,HIGH,Expected valid Loans response,AUTOMATED,2026-03-17,FAIL,DataMismatch,119.16,DEF0002407
+TC0000678,Login,Validate Login performance scenario 678,PERFORMANCE,MEDIUM,Expected valid Login response,CANDIDATE,2026-04-14,FAIL,EnvironmentUnavailable,87.62,DEF0001569
+TC0000683,Customer Onboarding,Validate Customer Onboarding api scenario 683,API,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2026-04-26,FAIL,UnexpectedStatusCode,86.93,DEF0002538
+TC0000689,Cards,Validate Cards regression scenario 689,REGRESSION,MEDIUM,Expected valid Cards response,AUTOMATED,2025-03-10,FAIL,ElementNotFound,22.2,DEF0002533
+TC0000696,Login,Validate Login unit scenario 696,UNIT,HIGH,Expected valid Login response,AUTOMATED,2025-09-20,FAIL,ElementNotFound,147.21,DEF0002368
+TC0000697,Login,Validate Login regression scenario 697,REGRESSION,HIGH,Expected valid Login response,MANUAL,2026-03-17,FAIL,UnexpectedStatusCode,32.77,DEF0001167
+TC0000698,Payments,Validate Payments api scenario 698,API,HIGH,Expected valid Payments response,CANDIDATE,2025-08-11,FAIL,DataMismatch,93.78,DEF0000072
+TC0000703,Notifications,Validate Notifications performance scenario 703,PERFORMANCE,MEDIUM,Expected valid Notifications response,AUTOMATED,2026-03-11,FAIL,UnexpectedStatusCode,29.64,DEF0002518
+TC0000704,Payments,Validate Payments api scenario 704,API,LOW,Expected valid Payments response,MANUAL,2026-01-18,FAIL,DataMismatch,143.54,DEF0001122
+TC0000722,Cards,Validate Cards unit scenario 722,UNIT,LOW,Expected valid Cards response,AUTOMATED,2025-04-03,FAIL,AuthenticationFailure,152.21,DEF0002311
+TC0000725,Loans,Validate Loans unit scenario 725,UNIT,LOW,Expected valid Loans response,CANDIDATE,2026-02-26,FAIL,AssertionError,156.51,DEF0001916
+TC0000744,Statements,Validate Statements api scenario 744,API,MEDIUM,Expected valid Statements response,MANUAL,2026-05-08,FAIL,Timeout,2.81,DEF0002747
+TC0000769,Cards,Validate Cards integration scenario 769,INTEGRATION,MEDIUM,Expected valid Cards response,MANUAL,2025-01-27,FAIL,UnexpectedStatusCode,18.95,DEF0001297
+TC0000782,Fraud Monitoring,Validate Fraud Monitoring regression scenario 782,REGRESSION,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2026-01-06,FAIL,ElementNotFound,84.48,DEF0000766
+TC0000788,Cards,Validate Cards integration scenario 788,INTEGRATION,LOW,Expected valid Cards response,AUTOMATED,2025-05-24,FAIL,DataMismatch,85.98,DEF0002736
+TC0000798,Login,Validate Login api scenario 798,API,LOW,Expected valid Login response,MANUAL,2025-10-06,FAIL,AssertionError,70.26,DEF0002059
+TC0000803,Loans,Validate Loans api scenario 803,API,MEDIUM,Expected valid Loans response,AUTOMATED,2026-06-12,FAIL,Timeout,146.68,DEF0001806
+TC0000810,Loans,Validate Loans regression scenario 810,REGRESSION,HIGH,Expected valid Loans response,CANDIDATE,2026-02-04,FAIL,AuthenticationFailure,120.34,DEF0002900
+TC0000814,Statements,Validate Statements integration scenario 814,INTEGRATION,LOW,Expected valid Statements response,MANUAL,2025-09-20,FAIL,EnvironmentUnavailable,152.94,DEF0001949
+TC0000815,Payments,Validate Payments unit scenario 815,UNIT,LOW,Expected valid Payments response,MANUAL,2026-05-25,FAIL,Timeout,137.32,DEF0002554
+TC0000817,Login,Validate Login api scenario 817,API,MEDIUM,Expected valid Login response,CANDIDATE,2025-01-19,FAIL,DataMismatch,58.4,DEF0002670
+TC0000833,Notifications,Validate Notifications api scenario 833,API,MEDIUM,Expected valid Notifications response,AUTOMATED,2026-01-22,FAIL,EnvironmentUnavailable,94.12,DEF0002769
+TC0000834,Login,Validate Login regression scenario 834,REGRESSION,MEDIUM,Expected valid Login response,CANDIDATE,2026-07-05,FAIL,ElementNotFound,61.19,DEF0001672
+TC0000849,API Gateway,Validate API Gateway regression scenario 849,REGRESSION,MEDIUM,Expected valid API Gateway response,AUTOMATED,2025-12-03,FAIL,Timeout,41.42,DEF0002066
+TC0000850,Accounts,Validate Accounts integration scenario 850,INTEGRATION,LOW,Expected valid Accounts response,AUTOMATED,2025-05-02,FAIL,DataMismatch,160.4,DEF0002052
+TC0000851,Notifications,Validate Notifications regression scenario 851,REGRESSION,LOW,Expected valid Notifications response,AUTOMATED,2025-02-22,FAIL,Timeout,66.61,DEF0000700
+TC0000859,Customer Onboarding,Validate Customer Onboarding integration scenario 859,INTEGRATION,HIGH,Expected valid Customer Onboarding response,MANUAL,2026-03-18,FAIL,ElementNotFound,168.89,DEF0002671
+TC0000861,API Gateway,Validate API Gateway integration scenario 861,INTEGRATION,HIGH,Expected valid API Gateway response,AUTOMATED,2025-05-08,FAIL,EnvironmentUnavailable,42.63,DEF0000457
+TC0000864,KYC,Validate KYC unit scenario 864,UNIT,MEDIUM,Expected valid KYC response,AUTOMATED,2025-12-04,FAIL,ElementNotFound,49.32,DEF0002748
+TC0000869,UPI,Validate UPI unit scenario 869,UNIT,HIGH,Expected valid UPI response,AUTOMATED,2025-01-19,FAIL,AuthenticationFailure,73.55,DEF0001402
+TC0000873,UPI,Validate UPI unit scenario 873,UNIT,MEDIUM,Expected valid UPI response,AUTOMATED,2025-01-16,FAIL,AssertionError,52.03,DEF0000361
+TC0000885,Cards,Validate Cards ui scenario 885,UI,HIGH,Expected valid Cards response,AUTOMATED,2025-07-22,FAIL,DataMismatch,144.47,DEF0002477
+TC0000892,Notifications,Validate Notifications unit scenario 892,UNIT,MEDIUM,Expected valid Notifications response,AUTOMATED,2026-01-19,FAIL,Timeout,168.69,DEF0001793
+TC0000901,UPI,Validate UPI unit scenario 901,UNIT,HIGH,Expected valid UPI response,AUTOMATED,2025-10-11,FAIL,DataMismatch,17.95,DEF0002160
+TC0000904,Accounts,Validate Accounts performance scenario 904,PERFORMANCE,LOW,Expected valid Accounts response,AUTOMATED,2026-07-11,FAIL,AuthenticationFailure,51.69,DEF0002436
+TC0000921,Login,Validate Login integration scenario 921,INTEGRATION,MEDIUM,Expected valid Login response,AUTOMATED,2025-07-17,FAIL,EnvironmentUnavailable,135.86,DEF0002845
+TC0000925,Notifications,Validate Notifications unit scenario 925,UNIT,LOW,Expected valid Notifications response,AUTOMATED,2025-10-27,FAIL,AuthenticationFailure,105.46,DEF0002978
+TC0000940,UPI,Validate UPI performance scenario 940,PERFORMANCE,HIGH,Expected valid UPI response,CANDIDATE,2025-04-02,FAIL,EnvironmentUnavailable,178.29,DEF0001851
+TC0000944,Fraud Monitoring,Validate Fraud Monitoring integration scenario 944,INTEGRATION,HIGH,Expected valid Fraud Monitoring response,MANUAL,2025-08-18,FAIL,AssertionError,162.53,DEF0001929
+TC0000945,Loans,Validate Loans integration scenario 945,INTEGRATION,MEDIUM,Expected valid Loans response,AUTOMATED,2025-07-30,FAIL,ElementNotFound,66.9,DEF0001432
+TC0000949,Login,Validate Login unit scenario 949,UNIT,HIGH,Expected valid Login response,AUTOMATED,2025-09-16,FAIL,Timeout,119.83,DEF0000777
+TC0000953,API Gateway,Validate API Gateway ui scenario 953,UI,MEDIUM,Expected valid API Gateway response,AUTOMATED,2026-06-04,FAIL,AssertionError,79.77,DEF0000040
+TC0000967,Login,Validate Login performance scenario 967,PERFORMANCE,LOW,Expected valid Login response,AUTOMATED,2025-10-03,FAIL,ElementNotFound,121.67,DEF0002198
+TC0000991,Notifications,Validate Notifications unit scenario 991,UNIT,MEDIUM,Expected valid Notifications response,CANDIDATE,2025-02-04,FAIL,AuthenticationFailure,165.43,DEF0000738
+TC0000999,KYC,Validate KYC unit scenario 999,UNIT,MEDIUM,Expected valid KYC response,CANDIDATE,2026-06-07,FAIL,ElementNotFound,17.52,DEF0002837
+TC0001002,Statements,Validate Statements api scenario 1002,API,LOW,Expected valid Statements response,MANUAL,2025-02-10,FAIL,AuthenticationFailure,45.41,DEF0002769
+TC0001004,Cards,Validate Cards integration scenario 1004,INTEGRATION,HIGH,Expected valid Cards response,MANUAL,2026-06-23,FAIL,Timeout,55.64,DEF0001193
+TC0001005,Notifications,Validate Notifications unit scenario 1005,UNIT,MEDIUM,Expected valid Notifications response,AUTOMATED,2025-09-04,FAIL,AssertionError,93.43,DEF0001281
+TC0001008,Customer Onboarding,Validate Customer Onboarding ui scenario 1008,UI,MEDIUM,Expected valid Customer Onboarding response,CANDIDATE,2026-04-02,FAIL,ElementNotFound,11.81,DEF0001663
+TC0001013,API Gateway,Validate API Gateway api scenario 1013,API,MEDIUM,Expected valid API Gateway response,AUTOMATED,2025-02-21,FAIL,AuthenticationFailure,102.45,DEF0001119
+TC0001015,UPI,Validate UPI performance scenario 1015,PERFORMANCE,MEDIUM,Expected valid UPI response,MANUAL,2025-05-05,FAIL,EnvironmentUnavailable,74.34,DEF0002398
+TC0001016,Loans,Validate Loans unit scenario 1016,UNIT,MEDIUM,Expected valid Loans response,AUTOMATED,2026-06-12,FAIL,AuthenticationFailure,166.3,DEF0001806
+TC0001033,Fraud Monitoring,Validate Fraud Monitoring unit scenario 1033,UNIT,HIGH,Expected valid Fraud Monitoring response,AUTOMATED,2026-07-08,FAIL,Timeout,160.03,DEF0000179
+TC0001037,Cards,Validate Cards unit scenario 1037,UNIT,HIGH,Expected valid Cards response,AUTOMATED,2025-01-07,FAIL,DataMismatch,124.45,DEF0000192
+TC0001041,API Gateway,Validate API Gateway ui scenario 1041,UI,MEDIUM,Expected valid API Gateway response,CANDIDATE,2025-09-29,FAIL,ElementNotFound,76.34,DEF0001030
+TC0001053,Statements,Validate Statements unit scenario 1053,UNIT,MEDIUM,Expected valid Statements response,MANUAL,2025-04-14,FAIL,ElementNotFound,139.99,DEF0000654
+TC0001068,Notifications,Validate Notifications regression scenario 1068,REGRESSION,MEDIUM,Expected valid Notifications response,CANDIDATE,2025-08-03,FAIL,AssertionError,125.88,DEF0002811
+TC0001082,Cards,Validate Cards unit scenario 1082,UNIT,MEDIUM,Expected valid Cards response,AUTOMATED,2025-02-28,FAIL,EnvironmentUnavailable,111.32,DEF0000423
+TC0001084,Fraud Monitoring,Validate Fraud Monitoring integration scenario 1084,INTEGRATION,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2025-05-03,FAIL,AuthenticationFailure,7.68,DEF0002949
+TC0001095,Notifications,Validate Notifications unit scenario 1095,UNIT,LOW,Expected valid Notifications response,AUTOMATED,2025-07-04,FAIL,Timeout,125.07,DEF0002150
+TC0001106,Statements,Validate Statements ui scenario 1106,UI,MEDIUM,Expected valid Statements response,MANUAL,2026-05-27,FAIL,AssertionError,105.33,DEF0001668
+TC0001110,Accounts,Validate Accounts regression scenario 1110,REGRESSION,LOW,Expected valid Accounts response,AUTOMATED,2025-11-13,FAIL,UnexpectedStatusCode,71.24,DEF0002746
+TC0001119,Statements,Validate Statements unit scenario 1119,UNIT,LOW,Expected valid Statements response,AUTOMATED,2025-08-23,FAIL,EnvironmentUnavailable,6.16,DEF0001342
+TC0001126,Notifications,Validate Notifications ui scenario 1126,UI,HIGH,Expected valid Notifications response,CANDIDATE,2026-01-14,FAIL,Timeout,9.33,DEF0000883
+TC0001133,Customer Onboarding,Validate Customer Onboarding regression scenario 1133,REGRESSION,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2025-02-23,FAIL,AssertionError,155.44,DEF0002519
+TC0001137,Cards,Validate Cards unit scenario 1137,UNIT,HIGH,Expected valid Cards response,AUTOMATED,2025-09-25,FAIL,ElementNotFound,19.01,DEF0001743
+TC0001151,Fraud Monitoring,Validate Fraud Monitoring integration scenario 1151,INTEGRATION,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2025-07-22,FAIL,Timeout,89.18,DEF0000308
+TC0001153,Accounts,Validate Accounts api scenario 1153,API,HIGH,Expected valid Accounts response,AUTOMATED,2025-10-08,FAIL,AssertionError,29.0,DEF0001666
+TC0001157,Loans,Validate Loans performance scenario 1157,PERFORMANCE,MEDIUM,Expected valid Loans response,MANUAL,2026-06-28,FAIL,AssertionError,53.68,DEF0000265
+TC0001162,KYC,Validate KYC regression scenario 1162,REGRESSION,LOW,Expected valid KYC response,AUTOMATED,2025-08-31,FAIL,UnexpectedStatusCode,49.07,DEF0002533
+TC0001169,Loans,Validate Loans api scenario 1169,API,HIGH,Expected valid Loans response,AUTOMATED,2026-06-08,FAIL,DataMismatch,70.07,DEF0002880
+TC0001170,Cards,Validate Cards ui scenario 1170,UI,LOW,Expected valid Cards response,AUTOMATED,2025-09-06,FAIL,UnexpectedStatusCode,89.53,DEF0001712
+TC0001172,API Gateway,Validate API Gateway performance scenario 1172,PERFORMANCE,HIGH,Expected valid API Gateway response,CANDIDATE,2026-05-19,FAIL,AssertionError,162.05,DEF0002089
+TC0001185,Customer Onboarding,Validate Customer Onboarding unit scenario 1185,UNIT,HIGH,Expected valid Customer Onboarding response,AUTOMATED,2026-04-07,FAIL,AuthenticationFailure,36.59,DEF0000859
+TC0001187,Cards,Validate Cards ui scenario 1187,UI,HIGH,Expected valid Cards response,AUTOMATED,2025-06-01,FAIL,Timeout,128.62,DEF0000055
+TC0001189,Customer Onboarding,Validate Customer Onboarding performance scenario 1189,PERFORMANCE,MEDIUM,Expected valid Customer Onboarding response,MANUAL,2025-05-20,FAIL,AssertionError,146.16,DEF0002944
+TC0001191,Accounts,Validate Accounts integration scenario 1191,INTEGRATION,LOW,Expected valid Accounts response,AUTOMATED,2026-01-06,FAIL,Timeout,134.77,DEF0000894
+TC0001204,Login,Validate Login unit scenario 1204,UNIT,MEDIUM,Expected valid Login response,AUTOMATED,2025-02-06,FAIL,ElementNotFound,137.6,DEF0001235
+TC0001208,Login,Validate Login integration scenario 1208,INTEGRATION,MEDIUM,Expected valid Login response,AUTOMATED,2026-06-30,FAIL,AssertionError,146.88,DEF0002480
+TC0001223,Loans,Validate Loans regression scenario 1223,REGRESSION,MEDIUM,Expected valid Loans response,CANDIDATE,2025-02-28,FAIL,EnvironmentUnavailable,33.05,DEF0002424
+TC0001225,KYC,Validate KYC performance scenario 1225,PERFORMANCE,HIGH,Expected valid KYC response,AUTOMATED,2026-05-07,FAIL,ElementNotFound,16.47,DEF0000580
+TC0001237,Accounts,Validate Accounts unit scenario 1237,UNIT,HIGH,Expected valid Accounts response,AUTOMATED,2025-03-19,FAIL,ElementNotFound,72.84,DEF0002554
+TC0001240,Accounts,Validate Accounts unit scenario 1240,UNIT,MEDIUM,Expected valid Accounts response,AUTOMATED,2025-04-03,FAIL,AuthenticationFailure,145.09,DEF0001158
+TC0001247,API Gateway,Validate API Gateway regression scenario 1247,REGRESSION,MEDIUM,Expected valid API Gateway response,AUTOMATED,2026-03-12,FAIL,EnvironmentUnavailable,117.36,DEF0002264
+TC0001270,Customer Onboarding,Validate Customer Onboarding unit scenario 1270,UNIT,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2025-02-13,FAIL,DataMismatch,103.96,DEF0000917
+TC0001279,Statements,Validate Statements ui scenario 1279,UI,LOW,Expected valid Statements response,AUTOMATED,2025-12-13,FAIL,EnvironmentUnavailable,48.88,DEF0002206
+TC0001292,Login,Validate Login ui scenario 1292,UI,LOW,Expected valid Login response,AUTOMATED,2025-06-15,FAIL,AuthenticationFailure,164.41,DEF0002462
+TC0001294,Fraud Monitoring,Validate Fraud Monitoring regression scenario 1294,REGRESSION,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2025-01-18,FAIL,EnvironmentUnavailable,73.91,DEF0000338
+TC0001297,API Gateway,Validate API Gateway integration scenario 1297,INTEGRATION,LOW,Expected valid API Gateway response,AUTOMATED,2025-11-22,FAIL,ElementNotFound,60.62,DEF0001460
+TC0001308,Login,Validate Login unit scenario 1308,UNIT,MEDIUM,Expected valid Login response,AUTOMATED,2025-04-26,FAIL,AssertionError,148.38,DEF0000976
+TC0001330,Login,Validate Login ui scenario 1330,UI,LOW,Expected valid Login response,AUTOMATED,2025-11-17,FAIL,ElementNotFound,6.24,DEF0000538
+TC0001332,UPI,Validate UPI unit scenario 1332,UNIT,MEDIUM,Expected valid UPI response,AUTOMATED,2026-03-25,FAIL,ElementNotFound,37.84,DEF0000401
+TC0001342,Notifications,Validate Notifications unit scenario 1342,UNIT,MEDIUM,Expected valid Notifications response,MANUAL,2025-12-29,FAIL,Timeout,179.17,DEF0000304
+TC0001351,Statements,Validate Statements regression scenario 1351,REGRESSION,LOW,Expected valid Statements response,AUTOMATED,2025-10-26,FAIL,EnvironmentUnavailable,82.45,DEF0000760
+TC0001361,API Gateway,Validate API Gateway ui scenario 1361,UI,MEDIUM,Expected valid API Gateway response,MANUAL,2025-01-23,FAIL,ElementNotFound,72.41,DEF0002089
+TC0001368,API Gateway,Validate API Gateway unit scenario 1368,UNIT,LOW,Expected valid API Gateway response,CANDIDATE,2025-12-22,FAIL,UnexpectedStatusCode,165.1,DEF0002663
+TC0001401,UPI,Validate UPI api scenario 1401,API,HIGH,Expected valid UPI response,AUTOMATED,2026-04-27,FAIL,Timeout,167.44,DEF0000183
+TC0001402,Notifications,Validate Notifications unit scenario 1402,UNIT,MEDIUM,Expected valid Notifications response,AUTOMATED,2025-05-25,FAIL,ElementNotFound,177.0,DEF0002046
+TC0001409,Statements,Validate Statements regression scenario 1409,REGRESSION,HIGH,Expected valid Statements response,AUTOMATED,2026-03-06,FAIL,EnvironmentUnavailable,19.6,DEF0001301
+TC0001419,Cards,Validate Cards unit scenario 1419,UNIT,MEDIUM,Expected valid Cards response,AUTOMATED,2026-03-14,FAIL,EnvironmentUnavailable,78.4,DEF0002454
+TC0001420,Accounts,Validate Accounts regression scenario 1420,REGRESSION,MEDIUM,Expected valid Accounts response,CANDIDATE,2025-02-25,FAIL,UnexpectedStatusCode,134.96,DEF0000661
+TC0001425,Payments,Validate Payments unit scenario 1425,UNIT,MEDIUM,Expected valid Payments response,CANDIDATE,2026-03-09,FAIL,DataMismatch,102.44,DEF0000195
+TC0001434,Customer Onboarding,Validate Customer Onboarding unit scenario 1434,UNIT,HIGH,Expected valid Customer Onboarding response,AUTOMATED,2026-03-31,FAIL,DataMismatch,46.99,DEF0001100
+TC0001445,UPI,Validate UPI api scenario 1445,API,MEDIUM,Expected valid UPI response,AUTOMATED,2025-01-08,FAIL,DataMismatch,176.6,DEF0001809
+TC0001446,Customer Onboarding,Validate Customer Onboarding api scenario 1446,API,LOW,Expected valid Customer Onboarding response,MANUAL,2025-03-06,FAIL,EnvironmentUnavailable,132.3,DEF0000534
+TC0001454,Customer Onboarding,Validate Customer Onboarding integration scenario 1454,INTEGRATION,HIGH,Expected valid Customer Onboarding response,MANUAL,2025-06-30,FAIL,Timeout,6.69,DEF0002013
+TC0001462,Cards,Validate Cards unit scenario 1462,UNIT,MEDIUM,Expected valid Cards response,CANDIDATE,2026-01-02,FAIL,UnexpectedStatusCode,127.89,DEF0000833
+TC0001467,Login,Validate Login ui scenario 1467,UI,LOW,Expected valid Login response,AUTOMATED,2025-02-16,FAIL,AssertionError,16.4,DEF0001098
+TC0001469,UPI,Validate UPI integration scenario 1469,INTEGRATION,LOW,Expected valid UPI response,AUTOMATED,2026-06-13,FAIL,AssertionError,155.77,DEF0002548
+TC0001473,Statements,Validate Statements integration scenario 1473,INTEGRATION,LOW,Expected valid Statements response,AUTOMATED,2025-03-31,FAIL,ElementNotFound,53.33,DEF0001782
+TC0001477,Fraud Monitoring,Validate Fraud Monitoring api scenario 1477,API,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2025-03-29,FAIL,Timeout,69.68,DEF0001237
+TC0001480,Login,Validate Login performance scenario 1480,PERFORMANCE,HIGH,Expected valid Login response,AUTOMATED,2026-05-21,FAIL,EnvironmentUnavailable,46.21,DEF0000992
+TC0001483,Fraud Monitoring,Validate Fraud Monitoring api scenario 1483,API,LOW,Expected valid Fraud Monitoring response,AUTOMATED,2026-05-26,FAIL,EnvironmentUnavailable,150.18,DEF0002259
+TC0001496,Loans,Validate Loans unit scenario 1496,UNIT,MEDIUM,Expected valid Loans response,AUTOMATED,2025-10-25,FAIL,DataMismatch,83.32,DEF0002667
+TC0001521,Login,Validate Login unit scenario 1521,UNIT,HIGH,Expected valid Login response,AUTOMATED,2025-08-06,FAIL,DataMismatch,174.98,DEF0001347
+TC0001523,Statements,Validate Statements integration scenario 1523,INTEGRATION,LOW,Expected valid Statements response,AUTOMATED,2025-12-03,FAIL,EnvironmentUnavailable,148.15,DEF0001949
+TC0001543,Fraud Monitoring,Validate Fraud Monitoring api scenario 1543,API,MEDIUM,Expected valid Fraud Monitoring response,MANUAL,2026-04-01,FAIL,DataMismatch,174.64,DEF0001502
+TC0001546,Cards,Validate Cards regression scenario 1546,REGRESSION,LOW,Expected valid Cards response,CANDIDATE,2025-06-04,FAIL,Timeout,9.68,DEF0001230
+TC0001549,Fraud Monitoring,Validate Fraud Monitoring unit scenario 1549,UNIT,LOW,Expected valid Fraud Monitoring response,AUTOMATED,2025-03-23,FAIL,AuthenticationFailure,111.47,DEF0002357
+TC0001552,Statements,Validate Statements unit scenario 1552,UNIT,MEDIUM,Expected valid Statements response,AUTOMATED,2025-04-08,FAIL,Timeout,86.83,DEF0002291
+TC0001557,API Gateway,Validate API Gateway integration scenario 1557,INTEGRATION,HIGH,Expected valid API Gateway response,CANDIDATE,2025-09-14,FAIL,DataMismatch,61.52,DEF0000446
+TC0001567,Accounts,Validate Accounts unit scenario 1567,UNIT,MEDIUM,Expected valid Accounts response,AUTOMATED,2026-02-06,FAIL,EnvironmentUnavailable,109.62,DEF0000319
+TC0001570,Fraud Monitoring,Validate Fraud Monitoring unit scenario 1570,UNIT,LOW,Expected valid Fraud Monitoring response,CANDIDATE,2026-05-21,FAIL,AssertionError,100.12,DEF0001112
+TC0001574,Fraud Monitoring,Validate Fraud Monitoring integration scenario 1574,INTEGRATION,HIGH,Expected valid Fraud Monitoring response,CANDIDATE,2025-03-28,FAIL,AssertionError,95.01,DEF0001001
+TC0001596,KYC,Validate KYC regression scenario 1596,REGRESSION,MEDIUM,Expected valid KYC response,AUTOMATED,2026-03-29,FAIL,Timeout,65.46,DEF0002400
+TC0001600,Statements,Validate Statements performance scenario 1600,PERFORMANCE,LOW,Expected valid Statements response,MANUAL,2026-02-20,FAIL,DataMismatch,26.47,DEF0002033
+TC0001601,Payments,Validate Payments ui scenario 1601,UI,MEDIUM,Expected valid Payments response,AUTOMATED,2025-01-13,FAIL,ElementNotFound,169.36,DEF0000459
+TC0001609,Fraud Monitoring,Validate Fraud Monitoring unit scenario 1609,UNIT,LOW,Expected valid Fraud Monitoring response,AUTOMATED,2026-03-11,FAIL,AuthenticationFailure,168.7,DEF0000838
+TC0001615,Cards,Validate Cards unit scenario 1615,UNIT,LOW,Expected valid Cards response,AUTOMATED,2025-08-02,FAIL,AuthenticationFailure,127.16,DEF0000913
+TC0001637,Fraud Monitoring,Validate Fraud Monitoring regression scenario 1637,REGRESSION,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2025-04-15,FAIL,DataMismatch,127.26,DEF0002674
+TC0001644,Accounts,Validate Accounts unit scenario 1644,UNIT,MEDIUM,Expected valid Accounts response,CANDIDATE,2026-02-22,FAIL,DataMismatch,172.34,DEF0001770
+TC0001653,Cards,Validate Cards regression scenario 1653,REGRESSION,LOW,Expected valid Cards response,AUTOMATED,2026-05-26,FAIL,ElementNotFound,106.56,DEF0001921
+TC0001656,Cards,Validate Cards integration scenario 1656,INTEGRATION,HIGH,Expected valid Cards response,AUTOMATED,2025-07-16,FAIL,AssertionError,143.98,DEF0002712
+TC0001662,KYC,Validate KYC unit scenario 1662,UNIT,HIGH,Expected valid KYC response,AUTOMATED,2025-05-21,FAIL,AssertionError,9.49,DEF0001688
+TC0001678,Cards,Validate Cards regression scenario 1678,REGRESSION,MEDIUM,Expected valid Cards response,AUTOMATED,2025-07-15,FAIL,EnvironmentUnavailable,2.44,DEF0001527
+TC0001701,Login,Validate Login integration scenario 1701,INTEGRATION,HIGH,Expected valid Login response,MANUAL,2025-02-16,FAIL,ElementNotFound,52.3,DEF0001991
+TC0001710,Notifications,Validate Notifications api scenario 1710,API,LOW,Expected valid Notifications response,CANDIDATE,2025-03-14,FAIL,DataMismatch,114.0,DEF0001034
+TC0001712,Statements,Validate Statements regression scenario 1712,REGRESSION,MEDIUM,Expected valid Statements response,MANUAL,2025-08-19,FAIL,ElementNotFound,116.37,DEF0002504
+TC0001716,Customer Onboarding,Validate Customer Onboarding unit scenario 1716,UNIT,MEDIUM,Expected valid Customer Onboarding response,CANDIDATE,2026-04-30,FAIL,AssertionError,95.26,DEF0000035
+TC0001724,UPI,Validate UPI api scenario 1724,API,LOW,Expected valid UPI response,AUTOMATED,2025-01-06,FAIL,Timeout,86.37,DEF0001984
+TC0001728,Cards,Validate Cards regression scenario 1728,REGRESSION,HIGH,Expected valid Cards response,AUTOMATED,2026-06-27,FAIL,ElementNotFound,32.39,DEF0001184
+TC0001732,Fraud Monitoring,Validate Fraud Monitoring api scenario 1732,API,LOW,Expected valid Fraud Monitoring response,AUTOMATED,2026-06-04,FAIL,Timeout,89.33,DEF0002755
+TC0001736,Login,Validate Login regression scenario 1736,REGRESSION,MEDIUM,Expected valid Login response,CANDIDATE,2025-02-20,FAIL,Timeout,114.36,DEF0001520
+TC0001738,Cards,Validate Cards api scenario 1738,API,MEDIUM,Expected valid Cards response,CANDIDATE,2025-05-20,FAIL,AssertionError,9.46,DEF0002966
+TC0001740,Login,Validate Login api scenario 1740,API,LOW,Expected valid Login response,MANUAL,2026-03-18,FAIL,AuthenticationFailure,132.92,DEF0002558
+TC0001741,Cards,Validate Cards integration scenario 1741,INTEGRATION,LOW,Expected valid Cards response,MANUAL,2026-07-10,FAIL,ElementNotFound,141.3,DEF0002697
+TC0001775,Loans,Validate Loans api scenario 1775,API,MEDIUM,Expected valid Loans response,AUTOMATED,2026-01-15,FAIL,ElementNotFound,160.24,DEF0002890
+TC0001780,KYC,Validate KYC unit scenario 1780,UNIT,LOW,Expected valid KYC response,AUTOMATED,2025-04-29,FAIL,AuthenticationFailure,89.67,DEF0002531
+TC0001788,Payments,Validate Payments api scenario 1788,API,MEDIUM,Expected valid Payments response,AUTOMATED,2025-05-23,FAIL,AssertionError,112.63,DEF0000880
+TC0001803,Accounts,Validate Accounts unit scenario 1803,UNIT,MEDIUM,Expected valid Accounts response,MANUAL,2026-01-18,FAIL,AssertionError,171.31,DEF0001601
+TC0001804,Fraud Monitoring,Validate Fraud Monitoring unit scenario 1804,UNIT,HIGH,Expected valid Fraud Monitoring response,AUTOMATED,2026-03-25,FAIL,ElementNotFound,80.57,DEF0002061
+TC0001814,Cards,Validate Cards ui scenario 1814,UI,HIGH,Expected valid Cards response,MANUAL,2026-05-31,FAIL,EnvironmentUnavailable,173.41,DEF0002773
+TC0001819,Login,Validate Login unit scenario 1819,UNIT,MEDIUM,Expected valid Login response,AUTOMATED,2025-02-10,FAIL,AssertionError,20.32,DEF0001555
+TC0001820,UPI,Validate UPI unit scenario 1820,UNIT,MEDIUM,Expected valid UPI response,AUTOMATED,2025-04-16,FAIL,DataMismatch,79.87,DEF0000210
+TC0001824,Loans,Validate Loans api scenario 1824,API,HIGH,Expected valid Loans response,AUTOMATED,2025-06-27,FAIL,ElementNotFound,74.57,DEF0000278
+TC0001828,UPI,Validate UPI api scenario 1828,API,LOW,Expected valid UPI response,AUTOMATED,2026-05-31,FAIL,EnvironmentUnavailable,74.69,DEF0000048
+TC0001832,Customer Onboarding,Validate Customer Onboarding regression scenario 1832,REGRESSION,MEDIUM,Expected valid Customer Onboarding response,CANDIDATE,2025-07-02,FAIL,DataMismatch,7.23,DEF0000697
+TC0001838,KYC,Validate KYC integration scenario 1838,INTEGRATION,LOW,Expected valid KYC response,CANDIDATE,2026-01-10,FAIL,AssertionError,84.31,DEF0002423
+TC0001848,Statements,Validate Statements integration scenario 1848,INTEGRATION,HIGH,Expected valid Statements response,MANUAL,2026-07-20,FAIL,EnvironmentUnavailable,158.12,DEF0001760
+TC0001851,Fraud Monitoring,Validate Fraud Monitoring integration scenario 1851,INTEGRATION,HIGH,Expected valid Fraud Monitoring response,AUTOMATED,2025-06-15,FAIL,AssertionError,37.82,DEF0001414
+TC0001852,API Gateway,Validate API Gateway integration scenario 1852,INTEGRATION,MEDIUM,Expected valid API Gateway response,CANDIDATE,2025-06-27,FAIL,AuthenticationFailure,62.75,DEF0001062
+TC0001853,Notifications,Validate Notifications performance scenario 1853,PERFORMANCE,HIGH,Expected valid Notifications response,AUTOMATED,2025-09-16,FAIL,AssertionError,15.53,DEF0002305
+TC0001854,Notifications,Validate Notifications integration scenario 1854,INTEGRATION,MEDIUM,Expected valid Notifications response,AUTOMATED,2025-11-10,FAIL,EnvironmentUnavailable,119.41,DEF0000762
+TC0001860,Statements,Validate Statements regression scenario 1860,REGRESSION,MEDIUM,Expected valid Statements response,AUTOMATED,2025-06-05,FAIL,DataMismatch,56.03,DEF0002656
+TC0001862,Cards,Validate Cards ui scenario 1862,UI,LOW,Expected valid Cards response,AUTOMATED,2025-02-14,FAIL,AssertionError,142.16,DEF0000321
+TC0001864,Loans,Validate Loans api scenario 1864,API,HIGH,Expected valid Loans response,MANUAL,2025-03-05,FAIL,Timeout,22.35,DEF0002663
+TC0001881,Loans,Validate Loans unit scenario 1881,UNIT,MEDIUM,Expected valid Loans response,AUTOMATED,2025-07-24,FAIL,DataMismatch,56.65,DEF0001968
+TC0001884,Accounts,Validate Accounts unit scenario 1884,UNIT,LOW,Expected valid Accounts response,AUTOMATED,2026-06-20,FAIL,DataMismatch,83.89,DEF0000878
+TC0001904,Statements,Validate Statements unit scenario 1904,UNIT,HIGH,Expected valid Statements response,MANUAL,2025-05-10,FAIL,DataMismatch,166.02,DEF0000867
+TC0001914,KYC,Validate KYC unit scenario 1914,UNIT,MEDIUM,Expected valid KYC response,AUTOMATED,2025-10-19,FAIL,AssertionError,16.82,DEF0000208
+TC0001919,Fraud Monitoring,Validate Fraud Monitoring unit scenario 1919,UNIT,LOW,Expected valid Fraud Monitoring response,AUTOMATED,2026-04-04,FAIL,AuthenticationFailure,43.44,DEF0001445
+TC0001922,Customer Onboarding,Validate Customer Onboarding api scenario 1922,API,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2025-11-11,FAIL,UnexpectedStatusCode,127.26,DEF0002913
+TC0001924,Statements,Validate Statements regression scenario 1924,REGRESSION,LOW,Expected valid Statements response,MANUAL,2025-04-11,FAIL,AuthenticationFailure,126.3,DEF0002819
+TC0001925,UPI,Validate UPI unit scenario 1925,UNIT,MEDIUM,Expected valid UPI response,AUTOMATED,2025-01-30,FAIL,ElementNotFound,177.11,DEF0002828
+TC0001926,Notifications,Validate Notifications regression scenario 1926,REGRESSION,HIGH,Expected valid Notifications response,AUTOMATED,2026-01-04,FAIL,AssertionError,76.62,DEF0000296
+TC0001928,UPI,Validate UPI performance scenario 1928,PERFORMANCE,HIGH,Expected valid UPI response,AUTOMATED,2026-01-03,FAIL,UnexpectedStatusCode,97.16,DEF0000563
+TC0001938,Loans,Validate Loans unit scenario 1938,UNIT,MEDIUM,Expected valid Loans response,AUTOMATED,2025-09-08,FAIL,Timeout,42.09,DEF0002491
+TC0001949,Loans,Validate Loans ui scenario 1949,UI,MEDIUM,Expected valid Loans response,AUTOMATED,2025-11-26,FAIL,EnvironmentUnavailable,63.83,DEF0001189
+TC0001954,UPI,Validate UPI unit scenario 1954,UNIT,LOW,Expected valid UPI response,AUTOMATED,2026-04-10,FAIL,AuthenticationFailure,106.52,DEF0001109
+TC0001970,Payments,Validate Payments ui scenario 1970,UI,MEDIUM,Expected valid Payments response,CANDIDATE,2026-06-28,FAIL,DataMismatch,108.56,DEF0001433
+TC0001979,Accounts,Validate Accounts api scenario 1979,API,MEDIUM,Expected valid Accounts response,CANDIDATE,2025-04-04,FAIL,Timeout,135.94,DEF0002951
+TC0001987,Fraud Monitoring,Validate Fraud Monitoring unit scenario 1987,UNIT,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2025-07-30,FAIL,UnexpectedStatusCode,75.8,DEF0000676
+TC0001989,Payments,Validate Payments performance scenario 1989,PERFORMANCE,MEDIUM,Expected valid Payments response,AUTOMATED,2025-06-06,FAIL,UnexpectedStatusCode,132.88,DEF0001275
+TC0001991,API Gateway,Validate API Gateway integration scenario 1991,INTEGRATION,MEDIUM,Expected valid API Gateway response,AUTOMATED,2025-11-19,FAIL,UnexpectedStatusCode,70.74,DEF0002144
+TC0001994,Statements,Validate Statements regression scenario 1994,REGRESSION,HIGH,Expected valid Statements response,AUTOMATED,2025-03-05,FAIL,Timeout,73.15,DEF0000047
+TC0002003,UPI,Validate UPI ui scenario 2003,UI,MEDIUM,Expected valid UPI response,AUTOMATED,2026-07-15,FAIL,EnvironmentUnavailable,103.07,DEF0001193
+TC0002019,KYC,Validate KYC unit scenario 2019,UNIT,LOW,Expected valid KYC response,AUTOMATED,2026-01-18,FAIL,EnvironmentUnavailable,176.38,DEF0001923
+TC0002043,Customer Onboarding,Validate Customer Onboarding unit scenario 2043,UNIT,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2025-12-27,FAIL,UnexpectedStatusCode,164.32,DEF0000741
+TC0002045,KYC,Validate KYC integration scenario 2045,INTEGRATION,HIGH,Expected valid KYC response,MANUAL,2026-02-26,FAIL,UnexpectedStatusCode,112.03,DEF0002324
+TC0002047,Payments,Validate Payments unit scenario 2047,UNIT,HIGH,Expected valid Payments response,AUTOMATED,2025-05-31,FAIL,DataMismatch,150.5,DEF0002888
+TC0002055,Accounts,Validate Accounts regression scenario 2055,REGRESSION,MEDIUM,Expected valid Accounts response,AUTOMATED,2025-11-13,FAIL,UnexpectedStatusCode,109.17,DEF0000026
+TC0002056,Statements,Validate Statements performance scenario 2056,PERFORMANCE,HIGH,Expected valid Statements response,CANDIDATE,2025-04-29,FAIL,UnexpectedStatusCode,167.67,DEF0002436
+TC0002057,Login,Validate Login integration scenario 2057,INTEGRATION,MEDIUM,Expected valid Login response,AUTOMATED,2025-11-13,FAIL,AssertionError,63.84,DEF0001561
+TC0002061,UPI,Validate UPI integration scenario 2061,INTEGRATION,MEDIUM,Expected valid UPI response,MANUAL,2025-04-02,FAIL,AssertionError,19.73,DEF0002647
+TC0002063,Loans,Validate Loans ui scenario 2063,UI,HIGH,Expected valid Loans response,AUTOMATED,2025-09-11,FAIL,AuthenticationFailure,35.23,DEF0001429
+TC0002081,UPI,Validate UPI api scenario 2081,API,LOW,Expected valid UPI response,AUTOMATED,2026-04-17,FAIL,Timeout,121.25,DEF0001902
+TC0002097,Accounts,Validate Accounts api scenario 2097,API,MEDIUM,Expected valid Accounts response,CANDIDATE,2025-04-05,FAIL,EnvironmentUnavailable,69.68,DEF0000365
+TC0002115,Cards,Validate Cards ui scenario 2115,UI,MEDIUM,Expected valid Cards response,AUTOMATED,2026-06-12,FAIL,Timeout,4.93,DEF0000339
+TC0002129,Customer Onboarding,Validate Customer Onboarding unit scenario 2129,UNIT,LOW,Expected valid Customer Onboarding response,AUTOMATED,2026-02-09,FAIL,EnvironmentUnavailable,56.19,DEF0001048
+TC0002135,Fraud Monitoring,Validate Fraud Monitoring unit scenario 2135,UNIT,MEDIUM,Expected valid Fraud Monitoring response,MANUAL,2025-03-03,FAIL,AuthenticationFailure,36.69,DEF0001077
+TC0002139,Accounts,Validate Accounts regression scenario 2139,REGRESSION,MEDIUM,Expected valid Accounts response,MANUAL,2025-04-05,FAIL,Timeout,26.77,DEF0000932
+TC0002140,KYC,Validate KYC ui scenario 2140,UI,MEDIUM,Expected valid KYC response,AUTOMATED,2025-02-18,FAIL,ElementNotFound,27.22,DEF0000473
+TC0002145,KYC,Validate KYC ui scenario 2145,UI,LOW,Expected valid KYC response,AUTOMATED,2025-03-05,FAIL,EnvironmentUnavailable,15.71,DEF0001995
+TC0002159,Loans,Validate Loans api scenario 2159,API,MEDIUM,Expected valid Loans response,AUTOMATED,2025-07-23,FAIL,AssertionError,131.39,DEF0002206
+TC0002165,Fraud Monitoring,Validate Fraud Monitoring api scenario 2165,API,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2025-11-16,FAIL,ElementNotFound,68.67,DEF0002798
+TC0002167,Loans,Validate Loans ui scenario 2167,UI,MEDIUM,Expected valid Loans response,CANDIDATE,2025-12-20,FAIL,DataMismatch,51.4,DEF0002108
+TC0002174,API Gateway,Validate API Gateway api scenario 2174,API,LOW,Expected valid API Gateway response,AUTOMATED,2026-07-09,FAIL,DataMismatch,58.26,DEF0000472
+TC0002177,Fraud Monitoring,Validate Fraud Monitoring unit scenario 2177,UNIT,MEDIUM,Expected valid Fraud Monitoring response,MANUAL,2025-01-07,FAIL,UnexpectedStatusCode,79.17,DEF0000323
+TC0002178,KYC,Validate KYC integration scenario 2178,INTEGRATION,MEDIUM,Expected valid KYC response,AUTOMATED,2025-12-05,FAIL,DataMismatch,171.3,DEF0000735
+TC0002182,Cards,Validate Cards regression scenario 2182,REGRESSION,HIGH,Expected valid Cards response,AUTOMATED,2025-11-07,FAIL,EnvironmentUnavailable,169.71,DEF0002196
+TC0002191,Customer Onboarding,Validate Customer Onboarding api scenario 2191,API,HIGH,Expected valid Customer Onboarding response,MANUAL,2025-05-09,FAIL,AuthenticationFailure,169.17,DEF0001797
+TC0002197,Loans,Validate Loans unit scenario 2197,UNIT,HIGH,Expected valid Loans response,AUTOMATED,2026-04-09,FAIL,AssertionError,44.61,DEF0000458
+TC0002199,KYC,Validate KYC api scenario 2199,API,HIGH,Expected valid KYC response,AUTOMATED,2026-05-31,FAIL,ElementNotFound,80.37,DEF0000525
+TC0002202,Payments,Validate Payments unit scenario 2202,UNIT,MEDIUM,Expected valid Payments response,AUTOMATED,2025-04-06,FAIL,AuthenticationFailure,11.25,DEF0000051
+TC0002216,Statements,Validate Statements regression scenario 2216,REGRESSION,MEDIUM,Expected valid Statements response,AUTOMATED,2025-04-10,FAIL,EnvironmentUnavailable,78.95,DEF0000611
+TC0002223,Login,Validate Login unit scenario 2223,UNIT,MEDIUM,Expected valid Login response,CANDIDATE,2025-01-18,FAIL,UnexpectedStatusCode,85.33,DEF0001075
+TC0002224,KYC,Validate KYC unit scenario 2224,UNIT,HIGH,Expected valid KYC response,MANUAL,2025-06-17,FAIL,UnexpectedStatusCode,147.12,DEF0002589
+TC0002252,Fraud Monitoring,Validate Fraud Monitoring performance scenario 2252,PERFORMANCE,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2025-03-01,FAIL,AuthenticationFailure,168.18,DEF0000052
+TC0002278,API Gateway,Validate API Gateway regression scenario 2278,REGRESSION,LOW,Expected valid API Gateway response,AUTOMATED,2025-01-29,FAIL,AssertionError,25.08,DEF0001735
+TC0002286,Notifications,Validate Notifications integration scenario 2286,INTEGRATION,MEDIUM,Expected valid Notifications response,AUTOMATED,2026-05-29,FAIL,AssertionError,131.95,DEF0000591
+TC0002288,Login,Validate Login performance scenario 2288,PERFORMANCE,MEDIUM,Expected valid Login response,MANUAL,2026-05-25,FAIL,AssertionError,5.9,DEF0000677
+TC0002290,Loans,Validate Loans integration scenario 2290,INTEGRATION,MEDIUM,Expected valid Loans response,AUTOMATED,2025-03-02,FAIL,EnvironmentUnavailable,110.11,DEF0002976
+TC0002294,Notifications,Validate Notifications api scenario 2294,API,HIGH,Expected valid Notifications response,MANUAL,2025-06-11,FAIL,AssertionError,153.14,DEF0000544
+TC0002297,Customer Onboarding,Validate Customer Onboarding ui scenario 2297,UI,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2025-01-02,FAIL,DataMismatch,132.11,DEF0001847
+TC0002309,API Gateway,Validate API Gateway api scenario 2309,API,LOW,Expected valid API Gateway response,AUTOMATED,2025-10-08,FAIL,UnexpectedStatusCode,8.79,DEF0000504
+TC0002312,Login,Validate Login integration scenario 2312,INTEGRATION,MEDIUM,Expected valid Login response,AUTOMATED,2026-06-10,FAIL,AuthenticationFailure,30.53,DEF0000085
+TC0002316,Customer Onboarding,Validate Customer Onboarding api scenario 2316,API,HIGH,Expected valid Customer Onboarding response,CANDIDATE,2025-07-22,FAIL,Timeout,88.08,DEF0001535
+TC0002329,Cards,Validate Cards api scenario 2329,API,LOW,Expected valid Cards response,AUTOMATED,2026-03-19,FAIL,DataMismatch,43.94,DEF0000201
+TC0002336,KYC,Validate KYC api scenario 2336,API,MEDIUM,Expected valid KYC response,AUTOMATED,2026-04-25,FAIL,EnvironmentUnavailable,84.68,DEF0001510
+TC0002364,Statements,Validate Statements unit scenario 2364,UNIT,MEDIUM,Expected valid Statements response,AUTOMATED,2025-01-23,FAIL,EnvironmentUnavailable,139.99,DEF0002297
+TC0002373,Statements,Validate Statements integration scenario 2373,INTEGRATION,LOW,Expected valid Statements response,AUTOMATED,2025-07-15,FAIL,AssertionError,17.51,DEF0001235
+TC0002382,Login,Validate Login api scenario 2382,API,LOW,Expected valid Login response,CANDIDATE,2025-05-22,FAIL,UnexpectedStatusCode,100.25,DEF0000087
+TC0002385,Payments,Validate Payments ui scenario 2385,UI,LOW,Expected valid Payments response,MANUAL,2026-06-01,FAIL,ElementNotFound,88.18,DEF0000528
+TC0002395,Customer Onboarding,Validate Customer Onboarding ui scenario 2395,UI,HIGH,Expected valid Customer Onboarding response,CANDIDATE,2026-02-25,FAIL,DataMismatch,92.48,DEF0002587
+TC0002396,UPI,Validate UPI regression scenario 2396,REGRESSION,MEDIUM,Expected valid UPI response,AUTOMATED,2026-03-06,FAIL,AssertionError,79.41,DEF0002857
+TC0002399,Login,Validate Login performance scenario 2399,PERFORMANCE,LOW,Expected valid Login response,AUTOMATED,2025-07-02,FAIL,Timeout,14.69,DEF0002976
+TC0002403,Accounts,Validate Accounts regression scenario 2403,REGRESSION,MEDIUM,Expected valid Accounts response,AUTOMATED,2026-06-20,FAIL,EnvironmentUnavailable,53.76,DEF0002944
+TC0002410,Login,Validate Login unit scenario 2410,UNIT,MEDIUM,Expected valid Login response,AUTOMATED,2026-04-27,FAIL,DataMismatch,112.52,DEF0001499
+TC0002413,Statements,Validate Statements api scenario 2413,API,HIGH,Expected valid Statements response,MANUAL,2026-04-07,FAIL,ElementNotFound,0.42,DEF0002156
+TC0002415,Loans,Validate Loans integration scenario 2415,INTEGRATION,MEDIUM,Expected valid Loans response,AUTOMATED,2025-11-10,FAIL,UnexpectedStatusCode,165.85,DEF0001663
+TC0002418,Payments,Validate Payments regression scenario 2418,REGRESSION,MEDIUM,Expected valid Payments response,MANUAL,2026-07-19,FAIL,EnvironmentUnavailable,151.64,DEF0000441
+TC0002425,Fraud Monitoring,Validate Fraud Monitoring integration scenario 2425,INTEGRATION,MEDIUM,Expected valid Fraud Monitoring response,MANUAL,2026-01-10,FAIL,UnexpectedStatusCode,27.97,DEF0000796
+TC0002426,Customer Onboarding,Validate Customer Onboarding regression scenario 2426,REGRESSION,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2025-01-30,FAIL,ElementNotFound,90.96,DEF0001435
+TC0002432,UPI,Validate UPI integration scenario 2432,INTEGRATION,LOW,Expected valid UPI response,MANUAL,2026-03-27,FAIL,AssertionError,96.31,DEF0002171
+TC0002433,Payments,Validate Payments api scenario 2433,API,MEDIUM,Expected valid Payments response,AUTOMATED,2026-03-16,FAIL,ElementNotFound,108.36,DEF0001936
+TC0002441,Statements,Validate Statements api scenario 2441,API,LOW,Expected valid Statements response,AUTOMATED,2025-07-11,FAIL,UnexpectedStatusCode,150.75,DEF0000229
+TC0002450,Accounts,Validate Accounts integration scenario 2450,INTEGRATION,MEDIUM,Expected valid Accounts response,MANUAL,2026-05-11,FAIL,AssertionError,152.46,DEF0000932
+TC0002477,Customer Onboarding,Validate Customer Onboarding unit scenario 2477,UNIT,LOW,Expected valid Customer Onboarding response,AUTOMATED,2025-08-18,FAIL,EnvironmentUnavailable,136.3,DEF0001736
+TC0002483,Loans,Validate Loans regression scenario 2483,REGRESSION,LOW,Expected valid Loans response,AUTOMATED,2025-10-14,FAIL,AssertionError,118.43,DEF0002981
+TC0002495,Login,Validate Login unit scenario 2495,UNIT,HIGH,Expected valid Login response,AUTOMATED,2025-02-02,FAIL,EnvironmentUnavailable,47.04,DEF0002383
+TC0002496,Cards,Validate Cards ui scenario 2496,UI,MEDIUM,Expected valid Cards response,AUTOMATED,2025-03-20,FAIL,UnexpectedStatusCode,84.75,DEF0000895
+TC0002499,API Gateway,Validate API Gateway ui scenario 2499,UI,LOW,Expected valid API Gateway response,AUTOMATED,2026-04-17,FAIL,AssertionError,94.16,DEF0002148
+TC0002501,Customer Onboarding,Validate Customer Onboarding integration scenario 2501,INTEGRATION,LOW,Expected valid Customer Onboarding response,AUTOMATED,2025-05-22,FAIL,Timeout,165.26,DEF0002137
+TC0002506,Cards,Validate Cards unit scenario 2506,UNIT,MEDIUM,Expected valid Cards response,AUTOMATED,2025-07-21,FAIL,UnexpectedStatusCode,131.19,DEF0000712
+TC0002521,Login,Validate Login regression scenario 2521,REGRESSION,MEDIUM,Expected valid Login response,AUTOMATED,2025-11-18,FAIL,UnexpectedStatusCode,28.24,DEF0000389
+TC0002540,Payments,Validate Payments regression scenario 2540,REGRESSION,MEDIUM,Expected valid Payments response,AUTOMATED,2025-08-29,FAIL,EnvironmentUnavailable,131.43,DEF0001860
+TC0002550,Accounts,Validate Accounts regression scenario 2550,REGRESSION,MEDIUM,Expected valid Accounts response,CANDIDATE,2025-09-30,FAIL,UnexpectedStatusCode,36.55,DEF0001091
+TC0002571,Notifications,Validate Notifications regression scenario 2571,REGRESSION,HIGH,Expected valid Notifications response,CANDIDATE,2025-07-08,FAIL,UnexpectedStatusCode,62.41,DEF0000715
+TC0002583,Accounts,Validate Accounts unit scenario 2583,UNIT,HIGH,Expected valid Accounts response,CANDIDATE,2026-06-16,FAIL,Timeout,105.82,DEF0001982
+TC0002588,Statements,Validate Statements regression scenario 2588,REGRESSION,LOW,Expected valid Statements response,AUTOMATED,2025-08-24,FAIL,AssertionError,54.27,DEF0000358
+TC0002589,Customer Onboarding,Validate Customer Onboarding api scenario 2589,API,MEDIUM,Expected valid Customer Onboarding response,CANDIDATE,2025-08-26,FAIL,Timeout,78.92,DEF0000649
+TC0002598,Payments,Validate Payments integration scenario 2598,INTEGRATION,LOW,Expected valid Payments response,MANUAL,2025-11-20,FAIL,Timeout,0.94,DEF0002103
+TC0002599,KYC,Validate KYC unit scenario 2599,UNIT,HIGH,Expected valid KYC response,AUTOMATED,2025-05-24,FAIL,AuthenticationFailure,174.5,DEF0002327
+TC0002613,API Gateway,Validate API Gateway integration scenario 2613,INTEGRATION,LOW,Expected valid API Gateway response,AUTOMATED,2025-05-01,FAIL,AssertionError,11.84,DEF0002689
+TC0002618,Fraud Monitoring,Validate Fraud Monitoring integration scenario 2618,INTEGRATION,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2025-10-28,FAIL,AssertionError,160.39,DEF0000905
+TC0002627,Loans,Validate Loans integration scenario 2627,INTEGRATION,MEDIUM,Expected valid Loans response,AUTOMATED,2025-01-01,FAIL,Timeout,158.68,DEF0000802
+TC0002639,Login,Validate Login regression scenario 2639,REGRESSION,HIGH,Expected valid Login response,MANUAL,2025-02-16,FAIL,ElementNotFound,63.95,DEF0000319
+TC0002644,API Gateway,Validate API Gateway integration scenario 2644,INTEGRATION,HIGH,Expected valid API Gateway response,MANUAL,2025-07-09,FAIL,UnexpectedStatusCode,160.63,DEF0000305
+TC0002645,Notifications,Validate Notifications ui scenario 2645,UI,LOW,Expected valid Notifications response,AUTOMATED,2026-04-18,FAIL,Timeout,91.99,DEF0002952
+TC0002649,Loans,Validate Loans unit scenario 2649,UNIT,LOW,Expected valid Loans response,AUTOMATED,2025-03-22,FAIL,Timeout,61.11,DEF0001054
+TC0002651,KYC,Validate KYC api scenario 2651,API,MEDIUM,Expected valid KYC response,AUTOMATED,2025-10-02,FAIL,DataMismatch,45.74,DEF0002560
+TC0002665,KYC,Validate KYC api scenario 2665,API,HIGH,Expected valid KYC response,AUTOMATED,2025-02-12,FAIL,DataMismatch,98.27,DEF0001626
+TC0002670,KYC,Validate KYC integration scenario 2670,INTEGRATION,HIGH,Expected valid KYC response,CANDIDATE,2025-03-23,FAIL,AuthenticationFailure,60.07,DEF0000044
+TC0002672,API Gateway,Validate API Gateway api scenario 2672,API,MEDIUM,Expected valid API Gateway response,AUTOMATED,2025-02-01,FAIL,Timeout,144.92,DEF0001094
+TC0002674,API Gateway,Validate API Gateway performance scenario 2674,PERFORMANCE,LOW,Expected valid API Gateway response,MANUAL,2025-03-19,FAIL,EnvironmentUnavailable,7.57,DEF0002160
+TC0002695,Accounts,Validate Accounts regression scenario 2695,REGRESSION,LOW,Expected valid Accounts response,CANDIDATE,2025-10-26,FAIL,UnexpectedStatusCode,64.85,DEF0002192
+TC0002704,Loans,Validate Loans integration scenario 2704,INTEGRATION,MEDIUM,Expected valid Loans response,AUTOMATED,2025-04-06,FAIL,DataMismatch,160.43,DEF0001989
+TC0002721,Cards,Validate Cards unit scenario 2721,UNIT,MEDIUM,Expected valid Cards response,AUTOMATED,2025-04-23,FAIL,AssertionError,129.49,DEF0002604
+TC0002724,Payments,Validate Payments regression scenario 2724,REGRESSION,LOW,Expected valid Payments response,AUTOMATED,2025-08-25,FAIL,AssertionError,132.59,DEF0002623
+TC0002727,KYC,Validate KYC performance scenario 2727,PERFORMANCE,MEDIUM,Expected valid KYC response,CANDIDATE,2026-05-14,FAIL,AssertionError,102.78,DEF0002890
+TC0002733,Cards,Validate Cards integration scenario 2733,INTEGRATION,MEDIUM,Expected valid Cards response,AUTOMATED,2025-07-08,FAIL,EnvironmentUnavailable,49.5,DEF0000597
+TC0002754,UPI,Validate UPI api scenario 2754,API,HIGH,Expected valid UPI response,AUTOMATED,2025-09-28,FAIL,AssertionError,63.73,DEF0002799
+TC0002756,Fraud Monitoring,Validate Fraud Monitoring integration scenario 2756,INTEGRATION,LOW,Expected valid Fraud Monitoring response,AUTOMATED,2025-09-22,FAIL,AuthenticationFailure,46.92,DEF0000370
+TC0002769,Login,Validate Login regression scenario 2769,REGRESSION,MEDIUM,Expected valid Login response,AUTOMATED,2026-03-22,FAIL,ElementNotFound,154.78,DEF0000548
+TC0002778,Loans,Validate Loans api scenario 2778,API,MEDIUM,Expected valid Loans response,AUTOMATED,2026-06-21,FAIL,AuthenticationFailure,141.01,DEF0000054
+TC0002782,Accounts,Validate Accounts regression scenario 2782,REGRESSION,MEDIUM,Expected valid Accounts response,AUTOMATED,2025-07-17,FAIL,ElementNotFound,125.11,DEF0002760
+TC0002788,Statements,Validate Statements regression scenario 2788,REGRESSION,MEDIUM,Expected valid Statements response,AUTOMATED,2025-11-28,FAIL,AssertionError,139.26,DEF0001314
+TC0002798,Loans,Validate Loans ui scenario 2798,UI,LOW,Expected valid Loans response,AUTOMATED,2026-04-02,FAIL,UnexpectedStatusCode,123.0,DEF0001519
+TC0002801,KYC,Validate KYC unit scenario 2801,UNIT,MEDIUM,Expected valid KYC response,AUTOMATED,2025-01-06,FAIL,AssertionError,135.81,DEF0002348
+TC0002821,Login,Validate Login regression scenario 2821,REGRESSION,MEDIUM,Expected valid Login response,AUTOMATED,2026-07-28,FAIL,Timeout,156.32,DEF0001817
+TC0002826,Payments,Validate Payments api scenario 2826,API,HIGH,Expected valid Payments response,AUTOMATED,2025-12-12,FAIL,AssertionError,110.19,DEF0002472
+TC0002828,Payments,Validate Payments performance scenario 2828,PERFORMANCE,HIGH,Expected valid Payments response,MANUAL,2026-06-04,FAIL,AssertionError,47.03,DEF0001842
+TC0002839,Login,Validate Login unit scenario 2839,UNIT,HIGH,Expected valid Login response,MANUAL,2026-04-26,FAIL,EnvironmentUnavailable,60.7,DEF0000505
+TC0002846,Fraud Monitoring,Validate Fraud Monitoring unit scenario 2846,UNIT,HIGH,Expected valid Fraud Monitoring response,AUTOMATED,2025-08-17,FAIL,EnvironmentUnavailable,77.66,DEF0001436
+TC0002855,Login,Validate Login regression scenario 2855,REGRESSION,MEDIUM,Expected valid Login response,MANUAL,2026-05-05,FAIL,ElementNotFound,142.33,DEF0001737
+TC0002860,Accounts,Validate Accounts api scenario 2860,API,LOW,Expected valid Accounts response,MANUAL,2026-01-14,FAIL,Timeout,116.07,DEF0002315
+TC0002877,Notifications,Validate Notifications api scenario 2877,API,MEDIUM,Expected valid Notifications response,AUTOMATED,2025-12-30,FAIL,DataMismatch,112.73,DEF0002472
+TC0002889,Statements,Validate Statements integration scenario 2889,INTEGRATION,MEDIUM,Expected valid Statements response,AUTOMATED,2025-02-22,FAIL,EnvironmentUnavailable,16.32,DEF0000540
+TC0002895,Cards,Validate Cards regression scenario 2895,REGRESSION,MEDIUM,Expected valid Cards response,AUTOMATED,2026-04-04,FAIL,AssertionError,5.68,DEF0000330
+TC0002897,API Gateway,Validate API Gateway integration scenario 2897,INTEGRATION,MEDIUM,Expected valid API Gateway response,AUTOMATED,2025-08-05,FAIL,UnexpectedStatusCode,162.98,DEF0002946
+TC0002903,KYC,Validate KYC api scenario 2903,API,MEDIUM,Expected valid KYC response,AUTOMATED,2025-09-11,FAIL,UnexpectedStatusCode,171.56,DEF0000727
+TC0002904,Fraud Monitoring,Validate Fraud Monitoring ui scenario 2904,UI,MEDIUM,Expected valid Fraud Monitoring response,CANDIDATE,2026-07-18,FAIL,AssertionError,38.75,DEF0002352
+TC0002907,UPI,Validate UPI unit scenario 2907,UNIT,MEDIUM,Expected valid UPI response,AUTOMATED,2026-05-21,FAIL,DataMismatch,146.7,DEF0002701
+TC0002912,Loans,Validate Loans regression scenario 2912,REGRESSION,HIGH,Expected valid Loans response,MANUAL,2026-02-28,FAIL,DataMismatch,54.68,DEF0001876
+TC0002913,Notifications,Validate Notifications regression scenario 2913,REGRESSION,MEDIUM,Expected valid Notifications response,AUTOMATED,2025-08-22,FAIL,ElementNotFound,72.64,DEF0002087
+TC0002937,Login,Validate Login integration scenario 2937,INTEGRATION,MEDIUM,Expected valid Login response,AUTOMATED,2025-05-25,FAIL,Timeout,115.26,DEF0001787
+TC0002941,Statements,Validate Statements api scenario 2941,API,MEDIUM,Expected valid Statements response,AUTOMATED,2026-05-18,FAIL,AssertionError,176.79,DEF0001112
+TC0002951,Login,Validate Login unit scenario 2951,UNIT,MEDIUM,Expected valid Login response,MANUAL,2025-10-21,FAIL,EnvironmentUnavailable,40.4,DEF0001751
+TC0002965,UPI,Validate UPI regression scenario 2965,REGRESSION,MEDIUM,Expected valid UPI response,MANUAL,2025-04-06,FAIL,UnexpectedStatusCode,173.75,DEF0000285
+TC0002979,Statements,Validate Statements api scenario 2979,API,MEDIUM,Expected valid Statements response,AUTOMATED,2025-12-03,FAIL,AuthenticationFailure,107.8,DEF0002248
+TC0002983,Statements,Validate Statements unit scenario 2983,UNIT,MEDIUM,Expected valid Statements response,AUTOMATED,2026-06-29,FAIL,DataMismatch,73.72,DEF0001583
+TC0003005,UPI,Validate UPI integration scenario 3005,INTEGRATION,MEDIUM,Expected valid UPI response,AUTOMATED,2026-04-25,FAIL,EnvironmentUnavailable,103.44,DEF0000436
+TC0003006,Cards,Validate Cards performance scenario 3006,PERFORMANCE,MEDIUM,Expected valid Cards response,AUTOMATED,2026-06-25,FAIL,AuthenticationFailure,48.8,DEF0001805
+TC0003026,Customer Onboarding,Validate Customer Onboarding integration scenario 3026,INTEGRATION,MEDIUM,Expected valid Customer Onboarding response,MANUAL,2026-03-02,FAIL,AuthenticationFailure,170.65,DEF0000813
+TC0003030,Login,Validate Login regression scenario 3030,REGRESSION,MEDIUM,Expected valid Login response,CANDIDATE,2025-09-05,FAIL,AssertionError,83.81,DEF0002325
+TC0003059,Customer Onboarding,Validate Customer Onboarding integration scenario 3059,INTEGRATION,LOW,Expected valid Customer Onboarding response,AUTOMATED,2025-04-24,FAIL,DataMismatch,74.04,DEF0001706
+TC0003070,Notifications,Validate Notifications unit scenario 3070,UNIT,MEDIUM,Expected valid Notifications response,MANUAL,2025-02-24,FAIL,UnexpectedStatusCode,111.63,DEF0002374
+TC0003074,Accounts,Validate Accounts integration scenario 3074,INTEGRATION,HIGH,Expected valid Accounts response,CANDIDATE,2025-02-08,FAIL,UnexpectedStatusCode,150.27,DEF0000366
+TC0003085,UPI,Validate UPI api scenario 3085,API,MEDIUM,Expected valid UPI response,AUTOMATED,2025-03-01,FAIL,ElementNotFound,166.81,DEF0002905
+TC0003095,Login,Validate Login integration scenario 3095,INTEGRATION,MEDIUM,Expected valid Login response,AUTOMATED,2025-01-02,FAIL,UnexpectedStatusCode,74.94,DEF0000966
+TC0003103,Accounts,Validate Accounts api scenario 3103,API,MEDIUM,Expected valid Accounts response,AUTOMATED,2025-04-07,FAIL,AssertionError,174.9,DEF0000970
+TC0003129,Login,Validate Login unit scenario 3129,UNIT,MEDIUM,Expected valid Login response,MANUAL,2026-06-17,FAIL,ElementNotFound,27.11,DEF0000692
+TC0003135,Statements,Validate Statements unit scenario 3135,UNIT,MEDIUM,Expected valid Statements response,CANDIDATE,2026-07-14,FAIL,EnvironmentUnavailable,68.1,DEF0001021
+TC0003139,KYC,Validate KYC ui scenario 3139,UI,MEDIUM,Expected valid KYC response,AUTOMATED,2025-06-23,FAIL,ElementNotFound,128.69,DEF0001030
+TC0003152,API Gateway,Validate API Gateway regression scenario 3152,REGRESSION,LOW,Expected valid API Gateway response,AUTOMATED,2025-10-02,FAIL,Timeout,140.76,DEF0001299
+TC0003156,Fraud Monitoring,Validate Fraud Monitoring unit scenario 3156,UNIT,MEDIUM,Expected valid Fraud Monitoring response,MANUAL,2025-10-26,FAIL,AssertionError,35.46,DEF0001522
+TC0003178,Customer Onboarding,Validate Customer Onboarding ui scenario 3178,UI,HIGH,Expected valid Customer Onboarding response,MANUAL,2025-06-07,FAIL,Timeout,55.37,DEF0000024
+TC0003180,Loans,Validate Loans api scenario 3180,API,MEDIUM,Expected valid Loans response,AUTOMATED,2025-09-19,FAIL,EnvironmentUnavailable,167.31,DEF0002448
+TC0003186,Fraud Monitoring,Validate Fraud Monitoring api scenario 3186,API,LOW,Expected valid Fraud Monitoring response,AUTOMATED,2025-08-12,FAIL,EnvironmentUnavailable,7.98,DEF0000089
+TC0003187,Customer Onboarding,Validate Customer Onboarding ui scenario 3187,UI,HIGH,Expected valid Customer Onboarding response,MANUAL,2025-01-28,FAIL,EnvironmentUnavailable,150.16,DEF0000666
+TC0003197,UPI,Validate UPI unit scenario 3197,UNIT,MEDIUM,Expected valid UPI response,AUTOMATED,2025-11-16,FAIL,AuthenticationFailure,36.69,DEF0000224
+TC0003203,Fraud Monitoring,Validate Fraud Monitoring unit scenario 3203,UNIT,LOW,Expected valid Fraud Monitoring response,AUTOMATED,2025-12-07,FAIL,ElementNotFound,41.14,DEF0002472
+TC0003208,Fraud Monitoring,Validate Fraud Monitoring api scenario 3208,API,HIGH,Expected valid Fraud Monitoring response,AUTOMATED,2026-07-02,FAIL,Timeout,39.55,DEF0000069
+TC0003216,Accounts,Validate Accounts integration scenario 3216,INTEGRATION,MEDIUM,Expected valid Accounts response,CANDIDATE,2026-05-18,FAIL,Timeout,10.74,DEF0000796
+TC0003237,Loans,Validate Loans integration scenario 3237,INTEGRATION,MEDIUM,Expected valid Loans response,AUTOMATED,2025-09-20,FAIL,Timeout,57.58,DEF0002697
+TC0003260,Cards,Validate Cards unit scenario 3260,UNIT,LOW,Expected valid Cards response,AUTOMATED,2025-04-01,FAIL,UnexpectedStatusCode,92.2,DEF0000248
+TC0003268,Accounts,Validate Accounts ui scenario 3268,UI,MEDIUM,Expected valid Accounts response,AUTOMATED,2025-05-02,FAIL,AuthenticationFailure,0.91,DEF0001046
+TC0003276,Fraud Monitoring,Validate Fraud Monitoring ui scenario 3276,UI,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2025-10-29,FAIL,Timeout,44.28,DEF0000384
+TC0003281,UPI,Validate UPI api scenario 3281,API,MEDIUM,Expected valid UPI response,AUTOMATED,2026-01-30,FAIL,AssertionError,100.23,DEF0002906
+TC0003285,Customer Onboarding,Validate Customer Onboarding regression scenario 3285,REGRESSION,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2025-03-11,FAIL,EnvironmentUnavailable,99.77,DEF0002675
+TC0003301,API Gateway,Validate API Gateway ui scenario 3301,UI,LOW,Expected valid API Gateway response,CANDIDATE,2025-06-26,FAIL,UnexpectedStatusCode,114.15,DEF0002759
+TC0003315,Notifications,Validate Notifications api scenario 3315,API,HIGH,Expected valid Notifications response,CANDIDATE,2025-12-11,FAIL,DataMismatch,59.17,DEF0000466
+TC0003346,Loans,Validate Loans ui scenario 3346,UI,HIGH,Expected valid Loans response,AUTOMATED,2025-05-24,FAIL,Timeout,10.74,DEF0002982
+TC0003347,Accounts,Validate Accounts integration scenario 3347,INTEGRATION,HIGH,Expected valid Accounts response,CANDIDATE,2025-08-08,FAIL,AssertionError,112.02,DEF0002040
+TC0003349,Statements,Validate Statements performance scenario 3349,PERFORMANCE,MEDIUM,Expected valid Statements response,MANUAL,2025-11-30,FAIL,UnexpectedStatusCode,98.31,DEF0002328
+TC0003353,Notifications,Validate Notifications unit scenario 3353,UNIT,MEDIUM,Expected valid Notifications response,MANUAL,2026-06-04,FAIL,DataMismatch,99.29,DEF0000876
+TC0003358,API Gateway,Validate API Gateway unit scenario 3358,UNIT,MEDIUM,Expected valid API Gateway response,AUTOMATED,2025-03-02,FAIL,EnvironmentUnavailable,48.52,DEF0001400
+TC0003375,Accounts,Validate Accounts integration scenario 3375,INTEGRATION,LOW,Expected valid Accounts response,MANUAL,2026-01-01,FAIL,AssertionError,85.88,DEF0002856
+TC0003378,Login,Validate Login regression scenario 3378,REGRESSION,MEDIUM,Expected valid Login response,AUTOMATED,2025-04-01,FAIL,Timeout,172.95,DEF0001294
+TC0003384,Statements,Validate Statements ui scenario 3384,UI,HIGH,Expected valid Statements response,CANDIDATE,2025-12-23,FAIL,ElementNotFound,132.94,DEF0001943
+TC0003394,Payments,Validate Payments performance scenario 3394,PERFORMANCE,HIGH,Expected valid Payments response,CANDIDATE,2025-12-19,FAIL,DataMismatch,179.09,DEF0001554
+TC0003403,Customer Onboarding,Validate Customer Onboarding integration scenario 3403,INTEGRATION,MEDIUM,Expected valid Customer Onboarding response,CANDIDATE,2026-06-20,FAIL,AssertionError,32.02,DEF0001484
+TC0003406,API Gateway,Validate API Gateway integration scenario 3406,INTEGRATION,MEDIUM,Expected valid API Gateway response,MANUAL,2025-09-30,FAIL,ElementNotFound,178.06,DEF0002936
+TC0003417,Login,Validate Login api scenario 3417,API,MEDIUM,Expected valid Login response,AUTOMATED,2026-03-27,FAIL,UnexpectedStatusCode,174.11,DEF0000865
+TC0003432,API Gateway,Validate API Gateway regression scenario 3432,REGRESSION,LOW,Expected valid API Gateway response,AUTOMATED,2025-02-21,FAIL,AssertionError,98.4,DEF0001545
+TC0003435,Fraud Monitoring,Validate Fraud Monitoring ui scenario 3435,UI,HIGH,Expected valid Fraud Monitoring response,MANUAL,2025-03-28,FAIL,AuthenticationFailure,42.59,DEF0000699
+TC0003438,Loans,Validate Loans ui scenario 3438,UI,HIGH,Expected valid Loans response,AUTOMATED,2025-03-25,FAIL,EnvironmentUnavailable,62.4,DEF0001435
+TC0003441,Statements,Validate Statements ui scenario 3441,UI,LOW,Expected valid Statements response,AUTOMATED,2025-11-19,FAIL,AssertionError,93.61,DEF0001720
+TC0003447,Login,Validate Login integration scenario 3447,INTEGRATION,LOW,Expected valid Login response,AUTOMATED,2025-08-06,FAIL,EnvironmentUnavailable,153.51,DEF0001324
+TC0003451,Fraud Monitoring,Validate Fraud Monitoring unit scenario 3451,UNIT,HIGH,Expected valid Fraud Monitoring response,AUTOMATED,2025-03-04,FAIL,UnexpectedStatusCode,48.59,DEF0000325
+TC0003468,KYC,Validate KYC api scenario 3468,API,MEDIUM,Expected valid KYC response,AUTOMATED,2026-04-11,FAIL,Timeout,30.86,DEF0000891
+TC0003478,Cards,Validate Cards ui scenario 3478,UI,HIGH,Expected valid Cards response,MANUAL,2026-02-12,FAIL,DataMismatch,52.19,DEF0000733
+TC0003488,Cards,Validate Cards api scenario 3488,API,LOW,Expected valid Cards response,AUTOMATED,2025-12-24,FAIL,EnvironmentUnavailable,129.53,DEF0002871
+TC0003493,Loans,Validate Loans regression scenario 3493,REGRESSION,MEDIUM,Expected valid Loans response,AUTOMATED,2025-10-16,FAIL,UnexpectedStatusCode,39.45,DEF0000603
+TC0003544,KYC,Validate KYC regression scenario 3544,REGRESSION,HIGH,Expected valid KYC response,AUTOMATED,2025-02-17,FAIL,AssertionError,29.71,DEF0000147
+TC0003563,Notifications,Validate Notifications api scenario 3563,API,LOW,Expected valid Notifications response,AUTOMATED,2025-11-21,FAIL,ElementNotFound,55.09,DEF0002096
+TC0003564,UPI,Validate UPI unit scenario 3564,UNIT,LOW,Expected valid UPI response,AUTOMATED,2025-01-11,FAIL,ElementNotFound,136.06,DEF0001454
+TC0003572,KYC,Validate KYC integration scenario 3572,INTEGRATION,LOW,Expected valid KYC response,CANDIDATE,2025-02-11,FAIL,ElementNotFound,33.91,DEF0002694
+TC0003574,Fraud Monitoring,Validate Fraud Monitoring api scenario 3574,API,HIGH,Expected valid Fraud Monitoring response,MANUAL,2025-02-28,FAIL,ElementNotFound,66.27,DEF0002575
+TC0003580,Notifications,Validate Notifications performance scenario 3580,PERFORMANCE,LOW,Expected valid Notifications response,MANUAL,2026-02-25,FAIL,DataMismatch,25.4,DEF0001110
+TC0003583,Cards,Validate Cards api scenario 3583,API,HIGH,Expected valid Cards response,AUTOMATED,2025-04-28,FAIL,EnvironmentUnavailable,37.19,DEF0000032
+TC0003596,Statements,Validate Statements api scenario 3596,API,MEDIUM,Expected valid Statements response,AUTOMATED,2025-02-22,FAIL,UnexpectedStatusCode,90.9,DEF0002804
+TC0003609,Notifications,Validate Notifications unit scenario 3609,UNIT,HIGH,Expected valid Notifications response,MANUAL,2026-04-22,FAIL,EnvironmentUnavailable,8.92,DEF0001661
+TC0003614,Login,Validate Login ui scenario 3614,UI,LOW,Expected valid Login response,AUTOMATED,2025-09-27,FAIL,AssertionError,149.8,DEF0000041
+TC0003621,Customer Onboarding,Validate Customer Onboarding integration scenario 3621,INTEGRATION,HIGH,Expected valid Customer Onboarding response,AUTOMATED,2025-03-11,FAIL,EnvironmentUnavailable,105.54,DEF0001239
+TC0003647,Customer Onboarding,Validate Customer Onboarding api scenario 3647,API,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2025-07-03,FAIL,AuthenticationFailure,87.56,DEF0001135
+TC0003649,Statements,Validate Statements ui scenario 3649,UI,MEDIUM,Expected valid Statements response,MANUAL,2025-10-09,FAIL,UnexpectedStatusCode,33.7,DEF0001369
+TC0003650,Accounts,Validate Accounts performance scenario 3650,PERFORMANCE,HIGH,Expected valid Accounts response,AUTOMATED,2025-05-26,FAIL,AssertionError,16.24,DEF0001789
+TC0003664,Fraud Monitoring,Validate Fraud Monitoring unit scenario 3664,UNIT,MEDIUM,Expected valid Fraud Monitoring response,MANUAL,2025-08-06,FAIL,UnexpectedStatusCode,125.44,DEF0000414
+TC0003669,Notifications,Validate Notifications api scenario 3669,API,MEDIUM,Expected valid Notifications response,AUTOMATED,2026-02-16,FAIL,AssertionError,19.02,DEF0000705
+TC0003671,Accounts,Validate Accounts unit scenario 3671,UNIT,MEDIUM,Expected valid Accounts response,AUTOMATED,2025-09-14,FAIL,EnvironmentUnavailable,104.78,DEF0000907
+TC0003675,Customer Onboarding,Validate Customer Onboarding ui scenario 3675,UI,MEDIUM,Expected valid Customer Onboarding response,MANUAL,2025-09-26,FAIL,UnexpectedStatusCode,109.98,DEF0000209
+TC0003703,Accounts,Validate Accounts ui scenario 3703,UI,HIGH,Expected valid Accounts response,AUTOMATED,2025-11-28,FAIL,DataMismatch,164.33,DEF0000530
+TC0003717,Cards,Validate Cards unit scenario 3717,UNIT,HIGH,Expected valid Cards response,AUTOMATED,2026-06-10,FAIL,AuthenticationFailure,165.88,DEF0002501
+TC0003721,Loans,Validate Loans ui scenario 3721,UI,LOW,Expected valid Loans response,AUTOMATED,2026-02-14,FAIL,ElementNotFound,98.15,DEF0000132
+TC0003750,API Gateway,Validate API Gateway unit scenario 3750,UNIT,MEDIUM,Expected valid API Gateway response,AUTOMATED,2025-02-11,FAIL,EnvironmentUnavailable,33.0,DEF0001907
+TC0003765,Loans,Validate Loans api scenario 3765,API,MEDIUM,Expected valid Loans response,MANUAL,2025-08-26,FAIL,EnvironmentUnavailable,75.86,DEF0000013
+TC0003768,Accounts,Validate Accounts unit scenario 3768,UNIT,LOW,Expected valid Accounts response,AUTOMATED,2026-04-18,FAIL,AuthenticationFailure,135.51,DEF0002739
+TC0003773,KYC,Validate KYC api scenario 3773,API,MEDIUM,Expected valid KYC response,AUTOMATED,2025-08-17,FAIL,ElementNotFound,24.4,DEF0002009
+TC0003778,Login,Validate Login integration scenario 3778,INTEGRATION,LOW,Expected valid Login response,MANUAL,2025-04-16,FAIL,AssertionError,38.21,DEF0002277
+TC0003779,Statements,Validate Statements regression scenario 3779,REGRESSION,MEDIUM,Expected valid Statements response,AUTOMATED,2025-06-26,FAIL,Timeout,173.45,DEF0001416
+TC0003781,Customer Onboarding,Validate Customer Onboarding integration scenario 3781,INTEGRATION,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2026-04-19,FAIL,Timeout,61.05,DEF0002765
+TC0003783,UPI,Validate UPI performance scenario 3783,PERFORMANCE,HIGH,Expected valid UPI response,AUTOMATED,2025-02-17,FAIL,DataMismatch,112.82,DEF0000975
+TC0003795,KYC,Validate KYC integration scenario 3795,INTEGRATION,HIGH,Expected valid KYC response,CANDIDATE,2025-12-06,FAIL,UnexpectedStatusCode,36.76,DEF0001934
+TC0003803,Payments,Validate Payments api scenario 3803,API,HIGH,Expected valid Payments response,AUTOMATED,2025-10-18,FAIL,UnexpectedStatusCode,114.92,DEF0000888
+TC0003805,Customer Onboarding,Validate Customer Onboarding api scenario 3805,API,HIGH,Expected valid Customer Onboarding response,CANDIDATE,2025-01-07,FAIL,DataMismatch,128.71,DEF0000634
+TC0003807,KYC,Validate KYC api scenario 3807,API,MEDIUM,Expected valid KYC response,CANDIDATE,2026-01-16,FAIL,EnvironmentUnavailable,166.67,DEF0000619
+TC0003811,Statements,Validate Statements api scenario 3811,API,HIGH,Expected valid Statements response,AUTOMATED,2025-07-23,FAIL,UnexpectedStatusCode,79.47,DEF0000735
+TC0003830,Login,Validate Login api scenario 3830,API,MEDIUM,Expected valid Login response,AUTOMATED,2025-10-13,FAIL,AssertionError,89.01,DEF0000405
+TC0003835,API Gateway,Validate API Gateway ui scenario 3835,UI,LOW,Expected valid API Gateway response,MANUAL,2026-06-12,FAIL,DataMismatch,61.23,DEF0000140
+TC0003842,Statements,Validate Statements unit scenario 3842,UNIT,LOW,Expected valid Statements response,CANDIDATE,2025-01-21,FAIL,DataMismatch,142.91,DEF0001817
+TC0003846,Login,Validate Login api scenario 3846,API,LOW,Expected valid Login response,CANDIDATE,2026-03-09,FAIL,AuthenticationFailure,34.73,DEF0000472
+TC0003847,Accounts,Validate Accounts regression scenario 3847,REGRESSION,MEDIUM,Expected valid Accounts response,AUTOMATED,2026-04-12,FAIL,ElementNotFound,175.96,DEF0002710
+TC0003859,API Gateway,Validate API Gateway unit scenario 3859,UNIT,MEDIUM,Expected valid API Gateway response,AUTOMATED,2025-08-19,FAIL,EnvironmentUnavailable,91.2,DEF0000044
+TC0003861,Accounts,Validate Accounts ui scenario 3861,UI,LOW,Expected valid Accounts response,AUTOMATED,2026-03-18,FAIL,AuthenticationFailure,114.35,DEF0001443
+TC0003863,Login,Validate Login api scenario 3863,API,LOW,Expected valid Login response,MANUAL,2025-01-18,FAIL,EnvironmentUnavailable,72.13,DEF0001008
+TC0003875,UPI,Validate UPI unit scenario 3875,UNIT,LOW,Expected valid UPI response,AUTOMATED,2025-07-17,FAIL,EnvironmentUnavailable,27.8,DEF0001899
+TC0003881,Login,Validate Login api scenario 3881,API,LOW,Expected valid Login response,AUTOMATED,2026-06-27,FAIL,AuthenticationFailure,100.59,DEF0002303
+TC0003898,Customer Onboarding,Validate Customer Onboarding regression scenario 3898,REGRESSION,HIGH,Expected valid Customer Onboarding response,AUTOMATED,2025-01-26,FAIL,Timeout,13.26,DEF0000271
+TC0003904,Loans,Validate Loans unit scenario 3904,UNIT,MEDIUM,Expected valid Loans response,AUTOMATED,2025-11-16,FAIL,UnexpectedStatusCode,178.09,DEF0001552
+TC0003923,Notifications,Validate Notifications unit scenario 3923,UNIT,MEDIUM,Expected valid Notifications response,AUTOMATED,2025-07-17,FAIL,AssertionError,72.34,DEF0000094
+TC0003942,Notifications,Validate Notifications unit scenario 3942,UNIT,LOW,Expected valid Notifications response,AUTOMATED,2025-02-15,FAIL,AssertionError,169.6,DEF0000922
+TC0003944,Customer Onboarding,Validate Customer Onboarding regression scenario 3944,REGRESSION,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2025-10-26,FAIL,AssertionError,17.84,DEF0001103
+TC0003960,KYC,Validate KYC ui scenario 3960,UI,HIGH,Expected valid KYC response,AUTOMATED,2026-02-24,FAIL,Timeout,98.26,DEF0001308
+TC0003964,Customer Onboarding,Validate Customer Onboarding unit scenario 3964,UNIT,HIGH,Expected valid Customer Onboarding response,AUTOMATED,2025-07-28,FAIL,UnexpectedStatusCode,111.97,DEF0002439
+TC0003965,Loans,Validate Loans regression scenario 3965,REGRESSION,LOW,Expected valid Loans response,CANDIDATE,2025-04-24,FAIL,AssertionError,170.81,DEF0001411
+TC0003968,KYC,Validate KYC ui scenario 3968,UI,MEDIUM,Expected valid KYC response,MANUAL,2026-02-22,FAIL,UnexpectedStatusCode,94.69,DEF0000590
+TC0003984,KYC,Validate KYC unit scenario 3984,UNIT,LOW,Expected valid KYC response,AUTOMATED,2025-09-22,FAIL,EnvironmentUnavailable,66.21,DEF0000299
+TC0003986,UPI,Validate UPI ui scenario 3986,UI,MEDIUM,Expected valid UPI response,AUTOMATED,2026-04-24,FAIL,AuthenticationFailure,84.58,DEF0001039
+TC0003987,Fraud Monitoring,Validate Fraud Monitoring integration scenario 3987,INTEGRATION,HIGH,Expected valid Fraud Monitoring response,MANUAL,2026-02-24,FAIL,EnvironmentUnavailable,174.99,DEF0000431
+TC0003989,Notifications,Validate Notifications api scenario 3989,API,HIGH,Expected valid Notifications response,AUTOMATED,2025-10-07,FAIL,AuthenticationFailure,31.58,DEF0000970
+TC0003999,Fraud Monitoring,Validate Fraud Monitoring integration scenario 3999,INTEGRATION,LOW,Expected valid Fraud Monitoring response,MANUAL,2025-12-09,FAIL,UnexpectedStatusCode,15.38,DEF0000275
+TC0004001,Statements,Validate Statements performance scenario 4001,PERFORMANCE,LOW,Expected valid Statements response,AUTOMATED,2026-05-28,FAIL,DataMismatch,165.27,DEF0002304
+TC0004004,Login,Validate Login ui scenario 4004,UI,MEDIUM,Expected valid Login response,AUTOMATED,2025-10-26,FAIL,UnexpectedStatusCode,56.36,DEF0001511
+TC0004011,Login,Validate Login integration scenario 4011,INTEGRATION,MEDIUM,Expected valid Login response,AUTOMATED,2026-04-28,FAIL,AuthenticationFailure,56.21,DEF0002851
+TC0004016,UPI,Validate UPI unit scenario 4016,UNIT,HIGH,Expected valid UPI response,MANUAL,2026-06-05,FAIL,AuthenticationFailure,71.04,DEF0000296
+TC0004017,Customer Onboarding,Validate Customer Onboarding api scenario 4017,API,LOW,Expected valid Customer Onboarding response,AUTOMATED,2025-11-30,FAIL,AssertionError,18.69,DEF0002080
+TC0004021,Loans,Validate Loans unit scenario 4021,UNIT,LOW,Expected valid Loans response,AUTOMATED,2025-07-28,FAIL,AuthenticationFailure,15.92,DEF0001347
+TC0004028,Cards,Validate Cards regression scenario 4028,REGRESSION,MEDIUM,Expected valid Cards response,CANDIDATE,2025-10-28,FAIL,DataMismatch,98.18,DEF0001543
+TC0004034,Customer Onboarding,Validate Customer Onboarding api scenario 4034,API,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2026-02-12,FAIL,AssertionError,70.82,DEF0001394
+TC0004041,Loans,Validate Loans ui scenario 4041,UI,HIGH,Expected valid Loans response,MANUAL,2025-12-07,FAIL,Timeout,110.16,DEF0001790
+TC0004060,Notifications,Validate Notifications unit scenario 4060,UNIT,MEDIUM,Expected valid Notifications response,AUTOMATED,2026-02-27,FAIL,UnexpectedStatusCode,52.75,DEF0002339
+TC0004069,Payments,Validate Payments regression scenario 4069,REGRESSION,LOW,Expected valid Payments response,MANUAL,2025-04-06,FAIL,EnvironmentUnavailable,145.17,DEF0001365
+TC0004084,Login,Validate Login regression scenario 4084,REGRESSION,MEDIUM,Expected valid Login response,AUTOMATED,2026-05-29,FAIL,AssertionError,137.62,DEF0001631
+TC0004090,API Gateway,Validate API Gateway ui scenario 4090,UI,MEDIUM,Expected valid API Gateway response,CANDIDATE,2026-06-18,FAIL,EnvironmentUnavailable,44.64,DEF0001704
+TC0004104,Statements,Validate Statements unit scenario 4104,UNIT,MEDIUM,Expected valid Statements response,AUTOMATED,2025-04-04,FAIL,AuthenticationFailure,115.14,DEF0001052
+TC0004113,Payments,Validate Payments unit scenario 4113,UNIT,MEDIUM,Expected valid Payments response,CANDIDATE,2026-07-09,FAIL,EnvironmentUnavailable,173.9,DEF0002786
+TC0004131,Cards,Validate Cards api scenario 4131,API,HIGH,Expected valid Cards response,AUTOMATED,2026-06-14,FAIL,EnvironmentUnavailable,118.28,DEF0001192
+TC0004165,Cards,Validate Cards integration scenario 4165,INTEGRATION,LOW,Expected valid Cards response,AUTOMATED,2025-06-07,FAIL,UnexpectedStatusCode,103.48,DEF0001210
+TC0004179,Payments,Validate Payments regression scenario 4179,REGRESSION,LOW,Expected valid Payments response,MANUAL,2026-07-19,FAIL,EnvironmentUnavailable,122.47,DEF0002160
+TC0004183,Loans,Validate Loans ui scenario 4183,UI,MEDIUM,Expected valid Loans response,AUTOMATED,2025-03-08,FAIL,AssertionError,30.69,DEF0000342
+TC0004186,Fraud Monitoring,Validate Fraud Monitoring regression scenario 4186,REGRESSION,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2025-09-03,FAIL,EnvironmentUnavailable,56.67,DEF0002966
+TC0004189,Customer Onboarding,Validate Customer Onboarding unit scenario 4189,UNIT,HIGH,Expected valid Customer Onboarding response,AUTOMATED,2026-05-11,FAIL,Timeout,121.08,DEF0000052
+TC0004190,Customer Onboarding,Validate Customer Onboarding regression scenario 4190,REGRESSION,HIGH,Expected valid Customer Onboarding response,CANDIDATE,2026-06-11,FAIL,ElementNotFound,113.17,DEF0002527
+TC0004198,Statements,Validate Statements unit scenario 4198,UNIT,MEDIUM,Expected valid Statements response,MANUAL,2025-03-16,FAIL,Timeout,167.61,DEF0001637
+TC0004216,Fraud Monitoring,Validate Fraud Monitoring integration scenario 4216,INTEGRATION,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2026-04-18,FAIL,AuthenticationFailure,144.91,DEF0002256
+TC0004226,Fraud Monitoring,Validate Fraud Monitoring api scenario 4226,API,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2026-07-21,FAIL,EnvironmentUnavailable,138.78,DEF0001055
+TC0004236,Notifications,Validate Notifications unit scenario 4236,UNIT,LOW,Expected valid Notifications response,AUTOMATED,2025-11-22,FAIL,DataMismatch,130.96,DEF0001603
+TC0004243,Statements,Validate Statements integration scenario 4243,INTEGRATION,MEDIUM,Expected valid Statements response,AUTOMATED,2026-06-27,FAIL,EnvironmentUnavailable,37.77,DEF0002137
+TC0004258,API Gateway,Validate API Gateway unit scenario 4258,UNIT,MEDIUM,Expected valid API Gateway response,AUTOMATED,2025-02-10,FAIL,UnexpectedStatusCode,68.02,DEF0002705
+TC0004270,Fraud Monitoring,Validate Fraud Monitoring integration scenario 4270,INTEGRATION,LOW,Expected valid Fraud Monitoring response,CANDIDATE,2026-06-19,FAIL,AssertionError,22.96,DEF0002027
+TC0004282,Loans,Validate Loans performance scenario 4282,PERFORMANCE,MEDIUM,Expected valid Loans response,AUTOMATED,2025-03-21,FAIL,DataMismatch,108.25,DEF0001509
+TC0004285,KYC,Validate KYC ui scenario 4285,UI,MEDIUM,Expected valid KYC response,AUTOMATED,2026-03-08,FAIL,UnexpectedStatusCode,178.17,DEF0000492
+TC0004287,Customer Onboarding,Validate Customer Onboarding unit scenario 4287,UNIT,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2025-08-11,FAIL,AssertionError,117.15,DEF0001541
+TC0004289,Notifications,Validate Notifications unit scenario 4289,UNIT,MEDIUM,Expected valid Notifications response,AUTOMATED,2025-08-07,FAIL,EnvironmentUnavailable,56.11,DEF0002644
+TC0004290,KYC,Validate KYC regression scenario 4290,REGRESSION,MEDIUM,Expected valid KYC response,AUTOMATED,2025-01-04,FAIL,UnexpectedStatusCode,8.12,DEF0000560
+TC0004304,UPI,Validate UPI integration scenario 4304,INTEGRATION,HIGH,Expected valid UPI response,MANUAL,2025-05-03,FAIL,Timeout,171.83,DEF0002892
+TC0004305,KYC,Validate KYC api scenario 4305,API,MEDIUM,Expected valid KYC response,MANUAL,2026-01-09,FAIL,AuthenticationFailure,119.06,DEF0002583
+TC0004326,Payments,Validate Payments ui scenario 4326,UI,LOW,Expected valid Payments response,AUTOMATED,2025-04-02,FAIL,ElementNotFound,160.47,DEF0000269
+TC0004327,Payments,Validate Payments regression scenario 4327,REGRESSION,MEDIUM,Expected valid Payments response,AUTOMATED,2025-04-21,FAIL,Timeout,102.61,DEF0001935
+TC0004340,Fraud Monitoring,Validate Fraud Monitoring performance scenario 4340,PERFORMANCE,HIGH,Expected valid Fraud Monitoring response,AUTOMATED,2025-03-08,FAIL,UnexpectedStatusCode,62.6,DEF0001215
+TC0004343,Statements,Validate Statements unit scenario 4343,UNIT,MEDIUM,Expected valid Statements response,AUTOMATED,2026-07-10,FAIL,ElementNotFound,95.17,DEF0001973
+TC0004349,UPI,Validate UPI unit scenario 4349,UNIT,LOW,Expected valid UPI response,AUTOMATED,2026-04-01,FAIL,ElementNotFound,24.77,DEF0001828
+TC0004352,Cards,Validate Cards regression scenario 4352,REGRESSION,MEDIUM,Expected valid Cards response,AUTOMATED,2026-04-23,FAIL,UnexpectedStatusCode,150.93,DEF0002375
+TC0004362,KYC,Validate KYC unit scenario 4362,UNIT,HIGH,Expected valid KYC response,AUTOMATED,2026-02-11,FAIL,AuthenticationFailure,94.68,DEF0000845
+TC0004372,Loans,Validate Loans unit scenario 4372,UNIT,MEDIUM,Expected valid Loans response,MANUAL,2025-05-13,FAIL,DataMismatch,100.77,DEF0001639
+TC0004384,Fraud Monitoring,Validate Fraud Monitoring regression scenario 4384,REGRESSION,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2025-10-03,FAIL,DataMismatch,33.79,DEF0001948
+TC0004394,Fraud Monitoring,Validate Fraud Monitoring unit scenario 4394,UNIT,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2026-04-27,FAIL,EnvironmentUnavailable,157.32,DEF0000110
+TC0004403,Customer Onboarding,Validate Customer Onboarding unit scenario 4403,UNIT,LOW,Expected valid Customer Onboarding response,AUTOMATED,2025-02-06,FAIL,AuthenticationFailure,112.09,DEF0001594
+TC0004416,Loans,Validate Loans integration scenario 4416,INTEGRATION,HIGH,Expected valid Loans response,MANUAL,2025-07-10,FAIL,Timeout,166.73,DEF0002908
+TC0004446,Login,Validate Login integration scenario 4446,INTEGRATION,MEDIUM,Expected valid Login response,AUTOMATED,2025-09-22,FAIL,ElementNotFound,172.11,DEF0001736
+TC0004447,Payments,Validate Payments unit scenario 4447,UNIT,MEDIUM,Expected valid Payments response,AUTOMATED,2025-12-12,FAIL,AuthenticationFailure,32.99,DEF0001503
+TC0004448,Fraud Monitoring,Validate Fraud Monitoring api scenario 4448,API,MEDIUM,Expected valid Fraud Monitoring response,AUTOMATED,2026-05-03,FAIL,AuthenticationFailure,58.88,DEF0000881
+TC0004449,Login,Validate Login integration scenario 4449,INTEGRATION,MEDIUM,Expected valid Login response,AUTOMATED,2025-06-21,FAIL,UnexpectedStatusCode,49.25,DEF0000368
+TC0004477,API Gateway,Validate API Gateway api scenario 4477,API,HIGH,Expected valid API Gateway response,AUTOMATED,2026-03-20,FAIL,AssertionError,84.14,DEF0002179
+TC0004484,UPI,Validate UPI regression scenario 4484,REGRESSION,HIGH,Expected valid UPI response,MANUAL,2026-07-03,FAIL,DataMismatch,67.32,DEF0000930
+TC0004485,Notifications,Validate Notifications integration scenario 4485,INTEGRATION,LOW,Expected valid Notifications response,AUTOMATED,2026-02-13,FAIL,DataMismatch,147.06,DEF0002786
+TC0004489,Cards,Validate Cards integration scenario 4489,INTEGRATION,LOW,Expected valid Cards response,AUTOMATED,2026-07-11,FAIL,DataMismatch,148.65,DEF0002803
+TC0004494,API Gateway,Validate API Gateway regression scenario 4494,REGRESSION,MEDIUM,Expected valid API Gateway response,CANDIDATE,2025-01-29,FAIL,AssertionError,42.15,DEF0002070
+TC0004500,Notifications,Validate Notifications ui scenario 4500,UI,LOW,Expected valid Notifications response,CANDIDATE,2025-12-27,FAIL,AssertionError,175.8,DEF0001475
+TC0004501,Accounts,Validate Accounts integration scenario 4501,INTEGRATION,LOW,Expected valid Accounts response,MANUAL,2026-01-17,FAIL,AssertionError,34.47,DEF0002679
+TC0004504,Accounts,Validate Accounts regression scenario 4504,REGRESSION,MEDIUM,Expected valid Accounts response,MANUAL,2026-05-28,FAIL,Timeout,143.5,DEF0000616
+TC0004508,KYC,Validate KYC unit scenario 4508,UNIT,LOW,Expected valid KYC response,AUTOMATED,2026-03-30,FAIL,Timeout,38.38,DEF0002526
+TC0004511,Accounts,Validate Accounts performance scenario 4511,PERFORMANCE,MEDIUM,Expected valid Accounts response,AUTOMATED,2025-04-26,FAIL,EnvironmentUnavailable,130.95,DEF0000338
+TC0004527,Login,Validate Login api scenario 4527,API,LOW,Expected valid Login response,AUTOMATED,2026-03-20,FAIL,AssertionError,34.02,DEF0001455
+TC0004535,API Gateway,Validate API Gateway regression scenario 4535,REGRESSION,HIGH,Expected valid API Gateway response,AUTOMATED,2026-06-20,FAIL,UnexpectedStatusCode,18.28,DEF0002450
+TC0004543,Notifications,Validate Notifications unit scenario 4543,UNIT,HIGH,Expected valid Notifications response,MANUAL,2026-01-16,FAIL,AssertionError,152.61,DEF0000095
+TC0004557,Fraud Monitoring,Validate Fraud Monitoring api scenario 4557,API,LOW,Expected valid Fraud Monitoring response,AUTOMATED,2025-03-22,FAIL,DataMismatch,144.78,DEF0001296
+TC0004564,Accounts,Validate Accounts unit scenario 4564,UNIT,MEDIUM,Expected valid Accounts response,AUTOMATED,2026-01-19,FAIL,Timeout,100.91,DEF0001672
+TC0004572,Fraud Monitoring,Validate Fraud Monitoring unit scenario 4572,UNIT,LOW,Expected valid Fraud Monitoring response,AUTOMATED,2025-02-03,FAIL,ElementNotFound,168.13,DEF0002254
+TC0004575,KYC,Validate KYC api scenario 4575,API,HIGH,Expected valid KYC response,MANUAL,2026-02-18,FAIL,EnvironmentUnavailable,73.09,DEF0000469
+TC0004576,Loans,Validate Loans ui scenario 4576,UI,HIGH,Expected valid Loans response,CANDIDATE,2025-04-23,FAIL,UnexpectedStatusCode,158.18,DEF0000432
+TC0004582,Customer Onboarding,Validate Customer Onboarding api scenario 4582,API,MEDIUM,Expected valid Customer Onboarding response,AUTOMATED,2025-04-04,FAIL,ElementNotFound,94.92,DEF0000892
+TC0004592,Accounts,Validate Accounts unit scenario 4592,UNIT,LOW,Expected valid Accounts response,MANUAL,2025-06-26,FAIL,Timeout,62.17,DEF0000159
+TC0004593,Payments,Validate Payments regression scenario 4593,REGRESSION,HIGH,Expected valid Payments response,CANDIDATE,2026-06-07,FAIL,DataMismatch,42.57,DEF0002701
+TC0004595,Login,Validate Login unit scenario 4595,UNIT,LOW,Expected valid Login response,MANUAL,2025-04-26,FAIL,AssertionError,92.68,DEF0001188
+TC0004597,Statements,Validate Statements unit scenario 4597,UNIT,HIGH,Expected valid Statements response,MANUAL,2025-10-19,FAIL,AssertionError,9.75,DEF0000052
+TC0004612,Login,Validate Login integration scenario 4612,INTEGRATION,LOW,Expected valid Login response,AUTOMATED,2025-12-06,FAIL,ElementNotFound,68.73,DEF0002770
+TC0004613,Statements,Validate Statements ui scenario 4613,UI,MEDIUM,Expected valid Statements response,AUTOMATED,2026-02-02,FAIL,Timeout,148.2,DEF0002147
+TC0004621,Customer Onboarding,Validate Customer Onboarding ui scenario 4621,UI,LOW,Expected valid Customer Onboarding response,MANUAL,2025-09-26,FAIL,UnexpectedStatusCode,158.24,DEF0001898
+TC0004625,Login,Validate Login integration scenario 4625,INTEGRATION,LOW,Expected valid Login response,AUTOMATED,2025-12-27,FAIL,AssertionError,132.77,DEF0002489
+TC0004632,Loans,Validate Loans regression scenario 4632,REGRESSION,HIGH,Expected valid Loans response,AUTOMATED,2026-04-04,FAIL,Timeout,131.38,DEF0001348
+TC0004644,KYC,Validate KYC api scenario 4644,API,HIGH,Expected valid KYC response,CANDIDATE,2025-03-27,FAIL,Timeout,24.54,DEF0002876
+TC0004648,Cards,Validate Cards ui scenario 4648,UI,LOW,Expected valid Cards response,AUTOMATED,2026-04-03,FAIL,AuthenticationFailure,122.54,DEF0000935
+TC0004654,Loans,Validate Loans unit scenario 4654,UNIT,MEDIUM,Expected valid Loans response,AUTOMATED,2026-06-17,FAIL,AuthenticationFailure,8.88,DEF0002616
+TC0004666,Login,Validate Login api scenario 4666,API,MEDIUM,Expected valid Login response,CANDIDATE,2025-12-17,FAIL,AssertionError,98.66,DEF0000066
+TC0004669,Cards,Validate Cards regression scenario 4669,REGRESSION,MEDIUM,Expected valid Cards response,AUTOMATED,2026-05-04,FAIL,AssertionError,131.72,DEF0002682
+TC0004670,Payments,Validate Payments ui scenario 4670,UI,MEDIUM,Expected valid Payments response,AUTOMATED,2025-12-18,FAIL,ElementNotFound,175.33,DEF0001766
+TC0004672,API Gateway,Validate API Gateway regression scenario 4672,REGRESSION,MEDIUM,Expected valid API Gateway response,MANUAL,2025-09-27,FAIL,ElementNotFound,99.88,DEF0001001
+TC0004673,Login,Validate Login ui scenario 4673,UI,HIGH,Expected valid Login response,AUTOMATED,2025-10-04,FAIL,AssertionError,35.9,DEF0001370
+TC0004676,Notifications,Validate Notifications api scenario 4676,API,MEDIUM,Expected valid Notifications response,AUTOMATED,2025-06-08,FAIL,AssertionError,67.07,DEF0000129
+TC0004686,Accounts,Validate Accounts api scenario 4686,API,MEDIUM,Expected valid Accounts response,AUTOMATED,2026-03-31,FAIL,UnexpectedStatusCode,45.25,DEF0001053
+TC0004723,Loans,Validate Loans regression scenario 4723,REGRESSION,MEDIUM,Expected valid Loans response,AUTOMATED,2025-02-07,FAIL,UnexpectedStatusCode,86.51,DEF0002831
+TC0004743,Loans,Validate Loans regression scenario 4743,REGRESSION,MEDIUM,Expected valid Loans response,AUTOMATED,2025-04-13,FAIL,Timeout,173.57,DEF0002038
+TC0004750,Loans,Validate Loans ui scenario 4750,UI,MEDIUM,Expected valid Loans response,CANDIDATE,2025-10-15,FAIL,DataMismatch,123.61,DEF0001014
+TC0004751,Payments,Validate Payments regression scenario 4751,REGRESSION,MEDIUM,Expected valid Payments response,AUTOMATED,2026-07-30,FAIL,UnexpectedStatusCode,1.17,DEF0000278
+TC0004752,Fraud Monitoring,Validate Fraud Monitoring integration scenario 4752,INTEGRATION,HIGH,Expected valid Fraud Monitoring response,AUTOMATED,2026-07-22,FAIL,EnvironmentUnavailable,128.28,DEF0001456
+TC0004756,Statements,Validate Statements unit scenario 4756,UNIT,HIGH,Expected valid Statements response,MANUAL,2025-06-25,FAIL,DataMismatch,163.36,DEF0002304
+TC0004765,Login,Validate Login ui scenario 4765,UI,HIGH,Expected valid Login response,AUTOMATED,2025-01-09,FAIL,AssertionError,34.4,DEF0000882
+TC0004771,Payments,Validate Payments unit scenario 4771,UNIT,MEDIUM,Expected valid Payments response,AUTOMATED,2025-10-21,FAIL,ElementNotFound,29.7,DEF0002068
+TC0004776,Payments,Validate Payments regression scenario 4776,REGRESSION,LOW,Expected valid Payments response,AUTOMATED,2025-01-16,FAIL,EnvironmentUnavailable,24.07,DEF0002281
+TC0004777,UPI,Validate UPI api scenario 4777,API,MEDIUM,Expected valid UPI response,AUTOMATED,2026-01-31,FAIL,Timeout,173.69,DEF0002649
+TC0004799,UPI,Validate UPI regression scenario 4799,REGRESSION,HIGH,Expected valid UPI response,AUTOMATED,2026-07-14,FAIL,EnvironmentUnavailable,155.07,DEF0001394
+TC0004800,Notifications,Validate Notifications ui scenario 4800,UI,MEDIUM,Expected valid Notifications response,MANUAL,2025-09-22,FAIL,AssertionError,78.9,DEF0000432
+TC0004823,Notifications,Validate Notifications regression scenario 4823,REGRESSION,MEDIUM,Expected valid Notifications response,MANUAL,2026-01-19,FAIL,DataMismatch,34.81,DEF0001263
+TC0004825,UPI,Validate UPI integration scenario 4825,INTEGRATION,LOW,Expected valid UPI response,AUTOMATED,2026-01-13,FAIL,Timeout,7.01,DEF0001486
+TC0004827,Accounts,Validate Accounts performance scenario 4827,PERFORMANCE,HIGH,Expected valid Accounts response,AUTOMATED,2025-03-11,FAIL,Timeout,118.56,DEF0002449
+TC0004828,Payments,Validate Payments integration scenario 4828,INTEGRATION,LOW,Expected valid Payments response,AUTOMATED,2025-11-26,FAIL,AuthenticationFailure,57.64,DEF0000047
+TC0004847,Loans,Validate Loans api scenario 4847,API,MEDIUM,Expected valid Loans response,AUTOMATED,2026-02-01,FAIL,UnexpectedStatusCode,36.95,DEF0002587
+TC0004863,API Gateway,Validate API Gateway api scenario 4863,API,MEDIUM,Expected valid API Gateway response,AUTOMATED,2025-01-16,FAIL,ElementNotFound,128.47,DEF0001173
+TC0004874,Loans,Validate Loans unit scenario 4874,UNIT,MEDIUM,Expected valid Loans response,AUTOMATED,2025-07-07,FAIL,AssertionError,16.09,DEF0000826
+TC0004876,Accounts,Validate Accounts api scenario 4876,API,HIGH,Expected valid Accounts response,MANUAL,2025-06-30,FAIL,AssertionError,96.25,DEF0000869
+TC0004879,Fraud Monitoring,Validate Fraud Monitoring performance scenario 4879,PERFORMANCE,HIGH,Expected valid Fraud Monitoring response,AUTOMATED,2026-07-06,FAIL,UnexpectedStatusCode,38.98,DEF0000090
+TC0004896,Login,Validate Login unit scenario 4896,UNIT,HIGH,Expected valid Login response,AUTOMATED,2026-04-02,FAIL,ElementNotFound,142.55,DEF0000429
+TC0004913,Fraud Monitoring,Validate Fraud Monitoring unit scenario 4913,UNIT,HIGH,Expected valid Fraud Monitoring response,AUTOMATED,2026-01-02,FAIL,UnexpectedStatusCode,66.12,DEF0001808
+TC0004918,Cards,Validate Cards integration scenario 4918,INTEGRATION,LOW,Expected valid Cards response,MANUAL,2025-12-15,FAIL,DataMismatch,141.98,DEF0002307
+TC0004924,Accounts,Validate Accounts regression scenario 4924,REGRESSION,MEDIUM,Expected valid Accounts response,AUTOMATED,2026-06-16,FAIL,AssertionError,175.92,DEF0002590
+TC0004928,Fraud Monitoring,Validate Fraud Monitoring integration scenario 4928,INTEGRATION,LOW,Expected valid Fraud Monitoring response,AUTOMATED,2025-12-07,FAIL,EnvironmentUnavailable,105.31,DEF0001772
+TC0004930,Payments,Validate Payments ui scenario 4930,UI,LOW,Expected valid Payments response,MANUAL,2025-01-15,FAIL,DataMismatch,12.11,DEF0000711
+TC0004938,Payments,Validate Payments ui scenario 4938,UI,HIGH,Expected valid Payments response,AUTOMATED,2025-11-14,FAIL,AuthenticationFailure,135.86,DEF0001670
+TC0004942,API Gateway,Validate API Gateway unit scenario 4942,UNIT,MEDIUM,Expected valid API Gateway response,AUTOMATED,2025-01-27,FAIL,AuthenticationFailure,92.58,DEF0002628
+TC0004946,Statements,Validate Statements ui scenario 4946,UI,MEDIUM,Expected valid Statements response,AUTOMATED,2025-08-16,FAIL,AuthenticationFailure,61.49,DEF0002609
+TC0004950,UPI,Validate UPI integration scenario 4950,INTEGRATION,MEDIUM,Expected valid UPI response,AUTOMATED,2026-07-19,FAIL,ElementNotFound,73.26,DEF0000593
+TC0004974,Payments,Validate Payments ui scenario 4974,UI,LOW,Expected valid Payments response,CANDIDATE,2025-04-09,FAIL,AuthenticationFailure,148.0,DEF0000062
+TC0004994,Payments,Validate Payments unit scenario 4994,UNIT,LOW,Expected valid Payments response,MANUAL,2026-01-30,FAIL,AssertionError,166.41,DEF0002212
+TC0004995,Loans,Validate Loans ui scenario 4995,UI,MEDIUM,Expected valid Loans response,MANUAL,2025-07-09,FAIL,AuthenticationFailure,88.65,DEF0000093

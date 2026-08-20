@@ -1,0 +1,14 @@
+test_id,input_condition,expected_result
+TS001,transaction_id=TXN0000000174 has transaction_amount < 0,flagged in negative_amount_transactions
+TS002,transaction_id=TXN0000000691 has transaction_datetime after the current run date,flagged in future_dated_transactions
+TS003,transaction_id=TXN0000000003 appears more than once in transactions.csv,flagged in duplicate_transaction_ids (272 rows total)
+TS004,transaction_id=TXN0000000008 runs against an account with account_status=CLOSED,flagged in closed_account_transactions
+TS005,transaction_id=TXN0000000146 references a customer_id absent from customers.csv,flagged in invalid_customer_relationship_transactions
+TS006,transaction_id=TXN0000000629 has kyc_status in PENDING/REJECTED/EXPIRED and transaction_amount >= 100000,flagged in kyc_high_value_transactions
+TS007,transaction_id=TXN0000000245 accumulates a weighted risk_score >= 70 across data-quality/customer/account/anomaly rules,present in expected_high_risk_transactions with risk_level=HIGH
+TS008,incident_id=INC00000002 resolution time exceeds the SLA hours for its severity in reference_data.csv,flagged in sla_breached_incidents (sla_breached=Y)
+TS009,log_id=API000001110 has response_time_ms > 2000,flagged in slow_api_logs_over_2000ms
+TS010,log_id=API000000020 has response_code in the 5xx range,flagged in failed_api_logs_5xx
+TS011,test_case_id=TC0000003 has execution_status=FAIL,flagged in failed_test_cases
+TS012,transaction_amount is negative and currency is a valid code with a verified KYC low-risk customer,risk_reasons includes Negative transaction amount and risk_score >= 30
+TS013,transaction has no data-quality violations and belongs to a LOW risk KYC-VERIFIED customer with an ACTIVE unfrozen account,risk_level=LOW and risk_reasons is empty

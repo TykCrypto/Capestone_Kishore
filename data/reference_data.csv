@@ -1,0 +1,164 @@
+reference_type,code,description,attribute_1,attribute_2
+BRANCH,BR0001,Lucknow Branch 1,Uttar Pradesh,Lucknow
+BRANCH,BR0002,New Delhi Branch 2,Delhi,New Delhi
+BRANCH,BR0003,Bhubaneswar Branch 3,Odisha,Bhubaneswar
+BRANCH,BR0004,Jaipur Branch 4,Rajasthan,Jaipur
+BRANCH,BR0005,Bhubaneswar Branch 5,Odisha,Bhubaneswar
+BRANCH,BR0006,Bhubaneswar Branch 6,Odisha,Bhubaneswar
+BRANCH,BR0007,Jaipur Branch 7,Rajasthan,Jaipur
+BRANCH,BR0008,Kolkata Branch 8,West Bengal,Kolkata
+BRANCH,BR0009,Ahmedabad Branch 9,Gujarat,Ahmedabad
+BRANCH,BR0010,Kochi Branch 10,Kerala,Kochi
+BRANCH,BR0011,Kolkata Branch 11,West Bengal,Kolkata
+BRANCH,BR0012,New Delhi Branch 12,Delhi,New Delhi
+BRANCH,BR0013,Jaipur Branch 13,Rajasthan,Jaipur
+BRANCH,BR0014,Mumbai Branch 14,Maharashtra,Mumbai
+BRANCH,BR0015,Hyderabad Branch 15,Telangana,Hyderabad
+BRANCH,BR0016,Kochi Branch 16,Kerala,Kochi
+BRANCH,BR0017,Jaipur Branch 17,Rajasthan,Jaipur
+BRANCH,BR0018,Bengaluru Branch 18,Karnataka,Bengaluru
+BRANCH,BR0019,Lucknow Branch 19,Uttar Pradesh,Lucknow
+BRANCH,BR0020,Kochi Branch 20,Kerala,Kochi
+BRANCH,BR0021,Kochi Branch 21,Kerala,Kochi
+BRANCH,BR0022,Kochi Branch 22,Kerala,Kochi
+BRANCH,BR0023,Mumbai Branch 23,Maharashtra,Mumbai
+BRANCH,BR0024,Ahmedabad Branch 24,Gujarat,Ahmedabad
+BRANCH,BR0025,Chennai Branch 25,Tamil Nadu,Chennai
+BRANCH,BR0026,Kochi Branch 26,Kerala,Kochi
+BRANCH,BR0027,Chennai Branch 27,Tamil Nadu,Chennai
+BRANCH,BR0028,Indore Branch 28,Madhya Pradesh,Indore
+BRANCH,BR0029,Bhubaneswar Branch 29,Odisha,Bhubaneswar
+BRANCH,BR0030,Bengaluru Branch 30,Karnataka,Bengaluru
+BRANCH,BR0031,Hyderabad Branch 31,Telangana,Hyderabad
+BRANCH,BR0032,Bengaluru Branch 32,Karnataka,Bengaluru
+BRANCH,BR0033,Kochi Branch 33,Kerala,Kochi
+BRANCH,BR0034,Chennai Branch 34,Tamil Nadu,Chennai
+BRANCH,BR0035,Bengaluru Branch 35,Karnataka,Bengaluru
+BRANCH,BR0036,Chennai Branch 36,Tamil Nadu,Chennai
+BRANCH,BR0037,Ahmedabad Branch 37,Gujarat,Ahmedabad
+BRANCH,BR0038,Jaipur Branch 38,Rajasthan,Jaipur
+BRANCH,BR0039,Jaipur Branch 39,Rajasthan,Jaipur
+BRANCH,BR0040,Kolkata Branch 40,West Bengal,Kolkata
+BRANCH,BR0041,Bengaluru Branch 41,Karnataka,Bengaluru
+BRANCH,BR0042,Jaipur Branch 42,Rajasthan,Jaipur
+BRANCH,BR0043,Hyderabad Branch 43,Telangana,Hyderabad
+BRANCH,BR0044,Mumbai Branch 44,Maharashtra,Mumbai
+BRANCH,BR0045,Indore Branch 45,Madhya Pradesh,Indore
+BRANCH,BR0046,Lucknow Branch 46,Uttar Pradesh,Lucknow
+BRANCH,BR0047,Kolkata Branch 47,West Bengal,Kolkata
+BRANCH,BR0048,Bhubaneswar Branch 48,Odisha,Bhubaneswar
+BRANCH,BR0049,Jaipur Branch 49,Rajasthan,Jaipur
+BRANCH,BR0050,Bengaluru Branch 50,Karnataka,Bengaluru
+BRANCH,BR0051,Bengaluru Branch 51,Karnataka,Bengaluru
+BRANCH,BR0052,Bengaluru Branch 52,Karnataka,Bengaluru
+BRANCH,BR0053,Ahmedabad Branch 53,Gujarat,Ahmedabad
+BRANCH,BR0054,Chennai Branch 54,Tamil Nadu,Chennai
+BRANCH,BR0055,Hyderabad Branch 55,Telangana,Hyderabad
+BRANCH,BR0056,Ahmedabad Branch 56,Gujarat,Ahmedabad
+BRANCH,BR0057,Kochi Branch 57,Kerala,Kochi
+BRANCH,BR0058,Bengaluru Branch 58,Karnataka,Bengaluru
+BRANCH,BR0059,Indore Branch 59,Madhya Pradesh,Indore
+BRANCH,BR0060,Chennai Branch 60,Tamil Nadu,Chennai
+BRANCH,BR0061,New Delhi Branch 61,Delhi,New Delhi
+BRANCH,BR0062,Ahmedabad Branch 62,Gujarat,Ahmedabad
+BRANCH,BR0063,Hyderabad Branch 63,Telangana,Hyderabad
+BRANCH,BR0064,Kolkata Branch 64,West Bengal,Kolkata
+BRANCH,BR0065,Kolkata Branch 65,West Bengal,Kolkata
+BRANCH,BR0066,Bhubaneswar Branch 66,Odisha,Bhubaneswar
+BRANCH,BR0067,New Delhi Branch 67,Delhi,New Delhi
+BRANCH,BR0068,Indore Branch 68,Madhya Pradesh,Indore
+BRANCH,BR0069,Indore Branch 69,Madhya Pradesh,Indore
+BRANCH,BR0070,Bhubaneswar Branch 70,Odisha,Bhubaneswar
+BRANCH,BR0071,Lucknow Branch 71,Uttar Pradesh,Lucknow
+BRANCH,BR0072,Hyderabad Branch 72,Telangana,Hyderabad
+BRANCH,BR0073,Indore Branch 73,Madhya Pradesh,Indore
+BRANCH,BR0074,Chennai Branch 74,Tamil Nadu,Chennai
+BRANCH,BR0075,Hyderabad Branch 75,Telangana,Hyderabad
+BRANCH,BR0076,Chennai Branch 76,Tamil Nadu,Chennai
+BRANCH,BR0077,Bhubaneswar Branch 77,Odisha,Bhubaneswar
+BRANCH,BR0078,Bhubaneswar Branch 78,Odisha,Bhubaneswar
+BRANCH,BR0079,New Delhi Branch 79,Delhi,New Delhi
+BRANCH,BR0080,Bhubaneswar Branch 80,Odisha,Bhubaneswar
+BRANCH,BR0081,Indore Branch 81,Madhya Pradesh,Indore
+BRANCH,BR0082,New Delhi Branch 82,Delhi,New Delhi
+BRANCH,BR0083,New Delhi Branch 83,Delhi,New Delhi
+BRANCH,BR0084,Lucknow Branch 84,Uttar Pradesh,Lucknow
+BRANCH,BR0085,Bhubaneswar Branch 85,Odisha,Bhubaneswar
+BRANCH,BR0086,Ahmedabad Branch 86,Gujarat,Ahmedabad
+BRANCH,BR0087,Kolkata Branch 87,West Bengal,Kolkata
+BRANCH,BR0088,Jaipur Branch 88,Rajasthan,Jaipur
+BRANCH,BR0089,Kochi Branch 89,Kerala,Kochi
+BRANCH,BR0090,New Delhi Branch 90,Delhi,New Delhi
+BRANCH,BR0091,New Delhi Branch 91,Delhi,New Delhi
+BRANCH,BR0092,Lucknow Branch 92,Uttar Pradesh,Lucknow
+BRANCH,BR0093,Lucknow Branch 93,Uttar Pradesh,Lucknow
+BRANCH,BR0094,Ahmedabad Branch 94,Gujarat,Ahmedabad
+BRANCH,BR0095,Hyderabad Branch 95,Telangana,Hyderabad
+BRANCH,BR0096,Chennai Branch 96,Tamil Nadu,Chennai
+BRANCH,BR0097,Ahmedabad Branch 97,Gujarat,Ahmedabad
+BRANCH,BR0098,Lucknow Branch 98,Uttar Pradesh,Lucknow
+BRANCH,BR0099,Mumbai Branch 99,Maharashtra,Mumbai
+BRANCH,BR0100,Chennai Branch 100,Tamil Nadu,Chennai
+BRANCH,BR0101,Hyderabad Branch 101,Telangana,Hyderabad
+BRANCH,BR0102,Ahmedabad Branch 102,Gujarat,Ahmedabad
+BRANCH,BR0103,New Delhi Branch 103,Delhi,New Delhi
+BRANCH,BR0104,Lucknow Branch 104,Uttar Pradesh,Lucknow
+BRANCH,BR0105,Jaipur Branch 105,Rajasthan,Jaipur
+BRANCH,BR0106,Jaipur Branch 106,Rajasthan,Jaipur
+BRANCH,BR0107,Bengaluru Branch 107,Karnataka,Bengaluru
+BRANCH,BR0108,Ahmedabad Branch 108,Gujarat,Ahmedabad
+BRANCH,BR0109,Hyderabad Branch 109,Telangana,Hyderabad
+BRANCH,BR0110,Jaipur Branch 110,Rajasthan,Jaipur
+BRANCH,BR0111,Jaipur Branch 111,Rajasthan,Jaipur
+BRANCH,BR0112,Chennai Branch 112,Tamil Nadu,Chennai
+BRANCH,BR0113,Kolkata Branch 113,West Bengal,Kolkata
+BRANCH,BR0114,Jaipur Branch 114,Rajasthan,Jaipur
+BRANCH,BR0115,Bhubaneswar Branch 115,Odisha,Bhubaneswar
+BRANCH,BR0116,Bengaluru Branch 116,Karnataka,Bengaluru
+BRANCH,BR0117,Jaipur Branch 117,Rajasthan,Jaipur
+BRANCH,BR0118,New Delhi Branch 118,Delhi,New Delhi
+BRANCH,BR0119,Jaipur Branch 119,Rajasthan,Jaipur
+BRANCH,BR0120,Kolkata Branch 120,West Bengal,Kolkata
+TRANSACTION_TYPE,UPI,Upi,,
+TRANSACTION_TYPE,IMPS,Imps,,
+TRANSACTION_TYPE,NEFT,Neft,,
+TRANSACTION_TYPE,RTGS,Rtgs,,
+TRANSACTION_TYPE,CARD_PURCHASE,Card Purchase,,
+TRANSACTION_TYPE,ATM_WITHDRAWAL,Atm Withdrawal,,
+TRANSACTION_TYPE,CASH_DEPOSIT,Cash Deposit,,
+TRANSACTION_TYPE,BILL_PAYMENT,Bill Payment,,
+TRANSACTION_TYPE,INTERNAL_TRANSFER,Internal Transfer,,
+CHANNEL,MOBILE,Mobile,,
+CHANNEL,INTERNET_BANKING,Internet Banking,,
+CHANNEL,ATM,Atm,,
+CHANNEL,BRANCH,Branch,,
+CHANNEL,POS,Pos,,
+CHANNEL,API,Api,,
+ERROR_CODE,E100,INVALID_CUSTOMER,,
+ERROR_CODE,E101,ACCOUNT_NOT_FOUND,,
+ERROR_CODE,E102,INSUFFICIENT_BALANCE,,
+ERROR_CODE,E103,KYC_BLOCK,,
+ERROR_CODE,E104,DUPLICATE_TRANSACTION,,
+ERROR_CODE,E105,UPSTREAM_TIMEOUT,,
+ERROR_CODE,E106,DATABASE_ERROR,,
+ERROR_CODE,E107,AUTH_FAILURE,,
+ERROR_CODE,E108,RATE_LIMIT,,
+ERROR_CODE,E109,INVALID_BENEFICIARY,,
+ERROR_CODE,E110,SETTLEMENT_FAILURE,,
+ERROR_CODE,E111,SERVICE_UNAVAILABLE,,
+SLA_RULE,SEV1,4 hour resolution SLA,4,hours
+SLA_RULE,SEV2,8 hour resolution SLA,8,hours
+SLA_RULE,SEV3,24 hour resolution SLA,24,hours
+SLA_RULE,SEV4,72 hour resolution SLA,72,hours
+APPLICATION_MODULE,LOGIN,Login,,
+APPLICATION_MODULE,CUSTOMER_ONBOARDING,Customer Onboarding,,
+APPLICATION_MODULE,KYC,KYC,,
+APPLICATION_MODULE,ACCOUNTS,Accounts,,
+APPLICATION_MODULE,UPI,UPI,,
+APPLICATION_MODULE,PAYMENTS,Payments,,
+APPLICATION_MODULE,CARDS,Cards,,
+APPLICATION_MODULE,LOANS,Loans,,
+APPLICATION_MODULE,FRAUD_MONITORING,Fraud Monitoring,,
+APPLICATION_MODULE,NOTIFICATIONS,Notifications,,
+APPLICATION_MODULE,STATEMENTS,Statements,,
+APPLICATION_MODULE,API_GATEWAY,API Gateway,,
